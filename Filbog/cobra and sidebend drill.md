@@ -1,0 +1,2 @@
+
+Just chill in cobra with legs on the ground, then switch to sidebend by just twisting your hips - this is the position you want to hold in the air too. You can lift one leg or the other, to feel which muscles engage

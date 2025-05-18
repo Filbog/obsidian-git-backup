@@ -1,0 +1,34 @@
+ 
+ - [x] Change sign up to email-based
+ - [x] Add label for "Goal" in sign up to explain what it is - prolly need to modify crispy-forms
+	 - [x] Same for Description label in "New activity"
+ - [x] add change-password
+ - [x] maybe increase the root font size
+ - [x] remove stars
+ - [x] add flash messages, to for example inform a person that they must log in when they're unauthorized and try to enter the activities/create/ URL
+ - [x] change activities order so that most recently added is at the top in activity_list
+ - [x] make navbar not transparent
+ - [x] Add sassy colors in general to the website
+ - [x] logo
+ - [x] favicon
+ - [x] hide the "new activity form" with a toggle button, and make it smaller in general
+ - [x] make a good-looking btn for the Tracker -???
+ - [x] Add tracker functionality
+ - [x] Add statistics functionality
+ - [x] Finish Homepage
+ - [x] About page
+ - [x] Readme on GH
+ - [x] Deploy that biiiitch
+ - [x] in activity_ilst, make negative/neutral/positive in colors     
+ - [x] Searching thru activities
+ - [x] Filtering activities: positive/negative/neutral
+ - [x] Adding activities to your favorites
+ - [x] Add UserPassesTestMixin to make unauthorized users not be able to enter other users' activities
+ - [x] Tests
+ - [x] Templates for 403, 404 etc
+
+Pomysły niekoniecznie do zrealizowania:
+ - [ ] Ability to make the activities and their tracking public - so that other users can see them
+	 - [ ] Maybe commenting
+	 - [ ] Maybe users can give sth like heart, thumb up, congrats emoji. Kind of like Facebook/Discord
+- [ ] Pretty advanced - users can set up "duels", for example: they both choose activity "gym" (they have different instances of gym, each their own). And they can set up options - maybe who tracks it more often, who spent more/less time doing the activity.

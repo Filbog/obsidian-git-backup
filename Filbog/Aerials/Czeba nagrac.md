@@ -1,0 +1,8 @@
+ - [ ] swingi Vka-Vka
+ - [ ] Moze swingi do open dropa
+ - [ ] Flara do nutcrackera
+ - [ ] Back balanse w podporze
+ - [ ] Supported waist roll
+ - [ ] Meathook
+ - [ ] Meksykanka
+ - [ ] Meksykanka w podporze

@@ -1,0 +1,1 @@
+In Angular, lifecycle hooks are methods that allow you to tap into specific points in a component’s lifecycle, such as initialization, change detection, and destruction. These hooks enable you to perform actions or execute code at different stages of the component’s life.

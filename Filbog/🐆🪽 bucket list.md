@@ -1,0 +1,12 @@
+
+ - [ ] walk around, look for homeless people
+ - [ ] Angels in the snow (cuddles after‼️)
+ - [ ] Pick a fight with bears/wolves (and survive)
+ - [ ] Go to the river
+ - [ ] Hardware store/s
+ - [ ] Bohnanza
+ - [ ] dumplings
+ - [ ] Kayaking
+ - [ ] LotR extended 😱
+ - [ ] Zapiekanka
+ - [ ] Teach swearing

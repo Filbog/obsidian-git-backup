@@ -1,0 +1,2 @@
+ - plakaty, wiadomo
+ - Ale mozna takze podrukowac ulotki i porozdawac dzieciom jako dodatkowy element promocji

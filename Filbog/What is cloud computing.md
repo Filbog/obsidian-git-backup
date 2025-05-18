@@ -1,0 +1,5 @@
+Wikipedia:
+*Cloud computing is the **on-demand** availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a **data center.** Cloud computing relies on sharing of resources to achieve coherence and typically uses a **pay-as-you-go model**, which can help in **reducing capital expenses** but may also lead to **unexpected operating expenses** for users.*
+So basically comapnies like Amazon, Microsoft have their massive data centers all over the globe, connected to each other. Users can "buy", or rather, "borrow" computing power and storage. So they don't have to buy and manage their own servers or hard disks. They leave a lot of security issues etc to the cloud provider which can be both a good and a bad thing.
+
+#webdev #coding #cloud 
