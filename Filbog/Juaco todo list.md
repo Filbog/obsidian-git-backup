@@ -1,10 +1,10 @@
 22-04-2025
 
- - [ ] plakaty w akro
- - [ ] List do nich
+ - [x] plakaty w akro
+ - [x] List do nich
  - [ ] Akomodacja
  - [ ] Powiedz uczniom swoim P5/dorosli
- - [ ] Wrzucic na sociale
+ - [x] Wrzucic na sociale
 
 
 ### Hashtags:
