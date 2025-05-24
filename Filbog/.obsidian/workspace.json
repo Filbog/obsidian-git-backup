@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juaco todo list.md",
+                "file": "Personal/Foldery na papiery, dokumenty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Juaco todo list"
+              "title": "Foldery na papiery, dokumenty"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transla",
+                "query": "singap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,6 +168,10 @@
   },
   "active": "9b2be2b618afd088",
   "lastOpenFiles": [
+    "Personal/Todo/May.md",
+    "Prep SG trip.md",
+    "Singapore travel.md",
+    "Juaco todo list.md",
     "Untitled 3.md",
     "Django Deployment Checklist.md",
     "Making our Django app bulletproof and secure - security measures in production.md",
@@ -190,10 +194,6 @@
     "Using django-htmx VS without it.md",
     "Creating custom django commands.md",
     "Coding/working with and customizing forms in Django.md",
-    "Learning Log ready for production and show off checklist.md",
-    "Coding/aerial calendar/Aerial calendar notes.md",
-    "Coding/How I made a the Aerial Calendar background.md",
-    "Coding/translation of content in django.md",
     "Untitled 1",
     "Untitled",
     "00063.jpg",

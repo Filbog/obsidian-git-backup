@@ -2,7 +2,7 @@
 
  - [x] plakaty w akro
  - [x] List do nich
- - [ ] Akomodacja
+ - [x] Akomodacja
  - [ ] Powiedz uczniom swoim P5/dorosli
  - [x] Wrzucic na sociale
 

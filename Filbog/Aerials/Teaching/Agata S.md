@@ -9,7 +9,12 @@ Natura
  - Latwiejsza: wejscie, ladne wejscie
 
 
-
+### 21-5
+ - [ ] szpagat od katariny nataszy
+ - [ ] Wejscie do tego szpagatu z FB? Wrapped? Open grip?
+ - [ ] Wycieraczki na drabinkach
+ - [ ] Wznosy przez Vke
+ - [ ] 
 
 ### 23-4
  - gwiazda noga w reke

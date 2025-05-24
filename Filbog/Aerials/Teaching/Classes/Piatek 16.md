@@ -4,6 +4,11 @@
 
 ## sem 2
 
+### uklad
+ - pstrykanie
+ - Handstandy
+ - Na ~0:28 wchodzimy na szarfe
+
 
 ### 25-4
  - cos na 2 nogach, pbroty w szpagacie krzyzyk na plecach etc, krzeselko

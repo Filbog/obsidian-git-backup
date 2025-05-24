@@ -1,6 +1,19 @@
 
 # sem 2
 
+#### uklad
+ - dwojki
+ - Solo, wejscie na szarfe
+ - Do vki w obrocie cos?
+
+
+
+### 27-5
+- [ ] STROJEEEEE
+
+
+### 20-5
+
 
 ### 8-4
  - przynosza muze, bd robic uklad niedlugo

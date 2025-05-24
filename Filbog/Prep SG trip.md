@@ -3,6 +3,8 @@
 
 - ibezpieczenie
 - Poobczajam co ja chce tam wgl robic - SG, Tajlandia, Malezja
+- DOWOD OSOBISTY bo sie konczy 21.8
+- matching spodnie dla kazdego
 
 ### Hashtags:
 #singapore #travel

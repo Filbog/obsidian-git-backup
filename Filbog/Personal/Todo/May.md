@@ -2,12 +2,28 @@
 ## General
  - [x] mam talent - neich ta przygoda juz sie skonczy
  - [ ] wypuszczamy kalendarium na swiatlo dzienne
+ - [ ] ID Poznan
+ - [ ] Dowod osobisty co sie konczy 21.8
 
+### 21
+ - [x] beatsy w podporze
+ - [ ] Zmienic content intro wedle tego co pisal juaco ostatnio
+ - [ ] Powrzucam te materialy, rolki zeby promowac
+ - [x] Do typka z term 
+ - [x] Aga
 
-
+### 20
+ - [x] apteka
+ - [x] Habibi zawiezc
+ - [x] Terapia: ze troche progres; ze ponazywalismy rzeczy, ze troche lepiej rozpoznaje
+ - [x] Bylem chory i nic ciekawego sie nie wydarzylo w moim zyciu
+### 19
+ - [x] spytaj mac o gatki
+ - [x] Spytaj mac o bluzke teddy fresh
+ - [x] Spytaj czy reczniki wyprane sa
 ### 18
- - [ ] Warsztaty z dziewczynami
- - [ ] Odpisze o warsztaty juaco na FB
+ - [x] Warsztaty z dziewczynami
+ - [x] Odpisze o warsztaty juaco na FB
  - [ ] Agnieszce odpisze
 - [ ] Ani odpisze
 ### 17

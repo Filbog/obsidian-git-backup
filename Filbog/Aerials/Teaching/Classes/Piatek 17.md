@@ -3,6 +3,11 @@
 
 ## sem 2
 
+
+### układ
+ - jakies mostki
+ - Skakanie z nogi na noge
+
 ### 16-5
  - gazela do 1/2 gwiazdy, rozkret
  - Dwojkami, trojkami

@@ -6,6 +6,12 @@
 
 
 
+
+### 27-5
+- [ ] STROJEEEEE
+
+
+
 ### 8-4
  - przynosza muze, bd robic uklad niedlugo
  - Ukladzior chyba bez supla, co?

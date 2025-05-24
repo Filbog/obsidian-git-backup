@@ -1,5 +1,12 @@
 
 
+
+
+### 27-5
+ - nietoperz na 1
+### 20-5
+ - skorpion z s-wrapa
+ - Drop w tyl z s-wrapa
 ### 8-4
  - przynosza muze, bd robic uklad niedlugo
  - Niech se wybiora 5-6 ulub elementow, figur i pokminia tak, żeby jak najmniej sie odwiazywac-zawiazywac pomiedzy nimi; jak je polaczyc

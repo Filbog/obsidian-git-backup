@@ -7,6 +7,7 @@
 4) umowa najmu na warsztaty cyr wheel z Ewa 2024
 5) dokumenty, MRI kręgosłupa (dyskopatia)
 6) Dokumenty prawko
+7) umowy mam talent
 
 
 ### 2

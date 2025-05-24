@@ -3,6 +3,29 @@
 # sem2
 
 
+### Zosia
+- poczatek sam musze obczaic
+- Ogarne te wejscia syrenkowe
+
+### Maja
+
+### Lena
+
+### Karolina
+ - za duzo elementow, czeba cos wywalic
+### uklad
+ - musze floorwork wymyslic, albo poczatek jakis
+ - I wejscie ladne
+ - Skorpio z zaby
+ - Rozdzielamy szarfy
+ - 
+
+
+
+### 27-5
+ - [ ] STROJEEEEE
+### 20-5
+
 ### 29-4
  - [x] Ukladzior nasz wlasny - olowekk, po olowku drop w przod
  - [x] Odp mmtalent
