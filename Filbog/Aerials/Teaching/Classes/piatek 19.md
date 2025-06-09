@@ -2,6 +2,12 @@
 
 ## sem 2
 
+### uklad
+ - czarny/ciemny dol
+ - Zolty, pomaranczowy, niebieski
+ - dwa warkocze
+ - 
+
 ### 11-4
  - muza na uklad
  - Baba jaga paczy

@@ -7,6 +7,13 @@
 ## sem 2
 
 
+
+### uklad
+ - czarny dol
+ - fioletowy, jasny fiolet, bialy
+
+
+
 ### 4-4 
  - muza na uklad?
  - Co one umieja wlasciwie

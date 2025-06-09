@@ -5,11 +5,14 @@
  - dwojki
  - Solo, wejscie na szarfe
  - Do vki w obrocie cos?
+ - Co z trzecia
 
 
 
-### 27-5
-- [ ] STROJEEEEE
+### 3-6
+- [ ] STROJEEEE - gora kolor, dol czarny
+- [ ] Przypominamy sobie uklad
+- [ ] Jak ktos nie umie konkretnych elementow to niech mowi, przelecimy
 
 
 ### 20-5

@@ -5,11 +5,19 @@
 
 ### Zosia
 - poczatek sam musze obczaic
+- Siedzimy na tylku, nogi podciagniete. Szarfa do siebie, do siebie, na boki z dlonmi STOP. Moze taki a’la gest na podlodze jak po tych syrenkowyc
 - Ogarne te wejscia syrenkowe
 
+### Gabi
+ - podloga - obczajona
+ - Otwarty spadek do przodu z aniolka
+ - Lezka, spadek w lezke na kolanie, tu miejsce na jakies ladne figurki
+ - Prosiaczek
+ - Podwoiny w przod z leniwca
 ### Maja
-
+ - posluchaj tej mizy w koncu jej…
 ### Lena
+ - 
 
 ### Karolina
  - za duzo elementow, czeba cos wywalic
@@ -20,7 +28,11 @@
  - Rozdzielamy szarfy
  - 
 
-
+### 3-6 
+- [ ] STROJEEEE - czarny dol, gora, kokarda
+- [ ] POWIEDZ O WARSZTATACH
+- [ ] Przypominamy sobie uklad
+- [ ] Jak ktos nie umie konkretnych elementow to niech mowi, przelecimy
 
 ### 27-5
  - [ ] STROJEEEEE

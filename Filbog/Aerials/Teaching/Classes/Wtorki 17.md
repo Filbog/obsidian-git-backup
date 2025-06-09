@@ -6,12 +6,12 @@
 
 
 
-
+### 3-6 
+- [ ] STROJEEEE - czarny dol, czarna gora
+- [ ] Przypominamy sobie uklad
+- [ ] Jak ktos nie umie konkretnych elementow to niech mowi, przelecimy
 ### 27-5
 - [ ] STROJEEEEE
-
-
-
 ### 8-4
  - przynosza muze, bd robic uklad niedlugo
  - Ukladzior chyba bez supla, co?

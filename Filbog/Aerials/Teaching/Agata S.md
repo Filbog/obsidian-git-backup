@@ -8,7 +8,15 @@ Natura
  - **trudniejsza v**: zwykle wejscie, koleine i flamenco; do vki na krzyz; biodrowy; wejscie; ladne wejscie; dynamika; back balance; flags
  - Latwiejsza: wejscie, ladne wejscie
 
-
+### 8-6
+ - [ ] cwiczenie pod C-shape z biodrowego
+ - [ ] Cwiczenie c-shape’owe na suple od antoinette
+ - [ ] Rzucamy sie w materac
+ - [ ] Nawijki
+ - [ ] Podciagniecia
+ - [ ] Swieczka-sklon ze stopami w linii z szarfa
+ - [ ] Ponadszpagaty
+ - [ ] Nierowny szpagat do oparcia do Vki do wypychanego
 ### 21-5
  - [ ] szpagat od katariny nataszy
  - [ ] Wejscie do tego szpagatu z FB? Wrapped? Open grip?

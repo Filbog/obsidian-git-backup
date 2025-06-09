@@ -1,6 +1,9 @@
 
 
 
+### 6-3
+ - [ ] POWIEDZ O WARSZTATACH
+ - [ ] Co z showem na koniec? Robimy cos co?
 
 ### 27-5
  - nietoperz na 1

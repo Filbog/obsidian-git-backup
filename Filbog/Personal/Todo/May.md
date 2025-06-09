@@ -4,7 +4,21 @@
  - [ ] wypuszczamy kalendarium na swiatlo dzienne
  - [ ] ID Poznan
  - [ ] Dowod osobisty co sie konczy 21.8
+ - [ ] Juaco zeby mozna na 1 dzien przyjechac
 
+
+
+### 31
+ - [x] kakao
+### 27
+ - [x] terapia - rozmowa z jankiem
+ - [x] Dermatolog
+ - [x] Odbiore glosnik, gotówa
+ - [x] Przedtem podpytaj tomka czy dobrze robie
+ - [ ] Promo do juAco
+ - [ ] Ponagrywam do SG workshop
+ - [ ] Stroje 
+ - [ ] Grupa na 18 brak na liscie
 ### 21
  - [x] beatsy w podporze
  - [ ] Zmienic content intro wedle tego co pisal juaco ostatnio

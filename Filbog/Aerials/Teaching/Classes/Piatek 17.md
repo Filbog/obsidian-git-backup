@@ -5,8 +5,11 @@
 
 
 ### układ
- - jakies mostki
+ - jakies mostki, mostek z wykretu
+ - Handstandy w parach
  - Skakanie z nogi na noge
+### uklad
+ - czarny dol, czerwony ew czarny gora
 
 ### 16-5
  - gazela do 1/2 gwiazdy, rozkret

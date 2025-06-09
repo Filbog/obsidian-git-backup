@@ -7,7 +7,15 @@
 ### uklad
  - pstrykanie
  - Handstandy
+ - Jeszcze przy ziemi kobra, na 1
  - Na ~0:28 wchodzimy na szarfe
+ - W handstand niech pozginaja jedna-druga nogi
+
+### stroje
+
+ - czarny dol
+ - Biala albo rozowa ngora
+ - Kitka
 
 
 ### 25-4

@@ -1,7 +1,12 @@
 
 
 
+## uklad
+ - moga tak dramatycznie machnac nogą jak sie zawijaja do syrenki
+ - Niech zarzuca glowa jak wejda na supel
 
+### 5
+ - STROJE: czarny dół, rozowy lub fioletowy odcien
 
 ### 10-4
  - piotrus pan

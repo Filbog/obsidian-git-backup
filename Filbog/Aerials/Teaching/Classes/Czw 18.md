@@ -2,7 +2,8 @@
 
 
 
-
+## uklad
+ - zeby do siebie jakos raczke wyciągneły
 ### 10-4
  - piotrus pan
 
