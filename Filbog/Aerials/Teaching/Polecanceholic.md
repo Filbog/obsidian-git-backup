@@ -10,6 +10,6 @@ https://docs.google.com/document/d/1geXjdi1waQDqyJY5nxKls9RRKdT2-oF0/edit?usp=sh
 
 
 ### Hashtags:
-#zawody #zawodyaerial #aerial #aerials 
+#aerialcompetitions #aerial #aerials 
 
 ### References (source material, similar notes):

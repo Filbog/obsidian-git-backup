@@ -4,6 +4,6 @@ Kinepolis
 
 
 ### Hashtags:
-#aerials #aerialcamp 
+#aerials #aerialcamp  #teaching
 
 ### References (source material, similar notes):

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b2be2b618afd088",
+            "id": "77a650dd44eb1dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo/June.md",
+                "file": "Aerials/Teaching/Games aerials lessons zabawy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "June"
+              "title": "Games aerials lessons zabawy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "singap",
+                "query": "tag:#teaching",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Foldery na papiery, dokumenty.md",
+                "file": "Personal/Todo/July.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foldery na papiery, dokumenty"
+              "title": "Backlinks for July"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Foldery na papiery, dokumenty.md",
+                "file": "Personal/Todo/July.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Foldery na papiery, dokumenty"
+              "title": "Outgoing links from July"
             }
           },
           {
@@ -128,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,14 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Foldery na papiery, dokumenty.md"
+                "file": "Personal/Todo/July.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Foldery na papiery, dokumenty"
+              "title": "Outline of July"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,34 +172,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b2be2b618afd088",
+  "active": "970d09a2def58bb4",
   "lastOpenFiles": [
-    "Pro-choice arguments.md",
-    "Akro to do.md",
-    "Personal/Todo/May.md",
-    "Personal/Todo/June.md",
-    "Personal/Foldery na papiery, dokumenty.md",
-    "Prep SG trip.md",
-    "Singapore travel.md",
-    "Juaco todo list.md",
-    "Untitled 3.md",
-    "Django Deployment Checklist.md",
-    "Making our Django app bulletproof and secure - security measures in production.md",
-    "Docker workflow from Django for Professionals.md",
-    "Templates/Template.md",
-    "Delete files from git tracking history (delete from remote repo).md",
-    "Creating Custom User Model in Django.md",
-    "Coding/aerial calendar/todo.md",
-    "hypermedia.md",
-    "hypertext.md",
-    "Hypermedia-Driven Application.md",
-    "Coding/AJAX, sending HTTP requests in HTMX.md",
-    "Responding to events in HTMX.md",
-    "cool summary of the potential of htmx attributes powering up HTML.md",
-    "Including values from inputs in events for non-form elements.md",
-    "Custom form rendering with Django and generic class-based views.md",
-    "rendering request indicators in HTMX.md",
-    "Electronic 1st curtain VS electronic shutter.md",
+    "Aerials/Teaching/Nocowanko.md",
+    "Aerials/aerial camp ideas.md",
+    "Aerials/Teaching/Games aerials lessons zabawy.md",
+    "Aerials/Teaching/22-7-2024.md",
+    "Aerials/Teaching/polkolonie wspinaczka mlodsze.md",
+    "Aerials/Teaching/Zastepstwa/2024-2025/14-7-2025 Stacja Grawitacja Dorosli.md",
+    "Aerials/Teaching/Classes/2024-2025/Wtorki 18.md",
+    "Aerials/Teaching/Zastepstwa/2024-2025",
+    "Personal/Todo/Sep.md",
+    "Aerials/Teaching/Classes/2024-2025",
+    "Untitled 2",
+    "Personal/Todo/August.md",
+    "Personal/Todo/Untitled.md",
+    "Personal/Kto mi oddaje kase, komu ja.md",
+    "mami niedobra.md",
+    "idea workshop SG.md",
+    "Aerials/Katariina and Jamie.md",
+    "Aerials/27-8-2025 Caitlin.md",
+    "Aerials/Teaching/Colin 25-8-2025.md",
+    "magnifica rozklad jazdy.md",
+    "Magnifica Łeba 31-7.md",
+    "Untitled 5.md",
+    "Aerials/Aerial Elite Championship 15-16 luty 2025.md",
+    "LMS sugestie do turnieju, regulaminu.md",
+    "LMS pytania dot sedziowania.md",
+    "LMS comp review.md",
+    "Aerials/Warsztaty Gorzow Wlkp.md",
+    "Kasia, Martyna warsztaty.md",
+    "Warsztaty leszno 12-4-2025.md",
     "Untitled 1",
     "Untitled",
     "00063.jpg",
@@ -202,9 +212,6 @@
     "Personal/Todo/Jan",
     "Personal/Todo/Dec",
     "Personal/Todo/Nov",
-    "Coding/aerial calendar",
-    "Aerials/Teaching/Zastepstwa",
-    "Aerials/My training/Session to-do",
     "Untitled.canvas"
   ]
 }

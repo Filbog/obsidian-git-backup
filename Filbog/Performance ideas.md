@@ -5,6 +5,6 @@
  - Natura, wiosna, wzrost
 
 ### Hashtags:
-#aerials #performanceideas #performance 
+#aerials #performanceideas
 
 ### References (source material, similar notes):

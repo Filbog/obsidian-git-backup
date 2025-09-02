@@ -28,7 +28,7 @@
  - Villanelle - Jo Blankenburg
 
 ### Hashtags:
-#aerials #teaching #agata #straps
+#aerials #teaching #agata #aerialstraps
 
 ### References (source material, similar notes):
 https://www.youtube.com/watch?v=EiSerwcMu7w&list=PLvjLozYrASjgcXnCul8_DHJHzelP2ZaAA&index=13&ab_channel=Aerialist

@@ -9,7 +9,7 @@ We can use one or all. Best practice is always model, and then maybe view and/or
 
 
 ### Hashtags:
-#coding #webdeb #django
+#coding #webdev #django
 
 
 ### References (source material, similar notes):

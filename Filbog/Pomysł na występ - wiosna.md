@@ -6,6 +6,6 @@ można jakiś wianek, jakas szatę coś
 
 
 ### Hashtags:
-#aerials #aerial #zawodyaerial #performance #performanceideas
+#aerials #aerial #aerialcompetitions #performanceideas
 
 ### References (source material, similar notes):

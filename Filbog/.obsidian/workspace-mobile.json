@@ -90,9 +90,37 @@
               "icon": "lucide-file",
               "title": "June"
             }
+          },
+          {
+            "id": "98506cfbc01d7c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Todo/August.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "August"
+            }
+          },
+          {
+            "id": "5d9c5739f68e6679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Todo/Sep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sep"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -108,7 +136,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byCreatedTime",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -120,8 +148,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Juaco",
-            "matchingCase": false,
+            "query": "Game",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -169,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aerials/Teaching/Classes/piatek 19.md",
+            "file": "Aerials/Katariina and Jamie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,6 +241,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,34 +251,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83707c473e12d5d3",
+  "active": "5d9c5739f68e6679",
   "lastOpenFiles": [
-    "Pro-choice arguments.md",
-    "Aerials/Teaching/Agata S.md",
-    "Personal/Todo/June.md",
-    "Aerials/Teaching/Classes/piatek 19.md",
-    "Aerials/Teaching/Classes/Piatek 18.md",
-    "Aerials/Teaching/Classes/Piatek 17.md",
-    "Aerials/Teaching/Classes/Piatek 16.md",
-    "Akro to do.md",
+    "Personal/Todo/August.md",
+    "Personal/Todo/Sep.md",
+    "Personal/Todo/July.md",
+    "mami niedobra.md",
+    "Untitled 4.md",
+    "Aerials/Teaching/Games aerials lessons.md",
+    "Aerials/Katariina and Jamie.md",
+    "Aerials/27-8-2025 Caitlin.md",
+    "Aerials/Teaching/Colin 25-8-2025.md",
     "Kasia, Martyna warsztaty.md",
-    "Aerials/Teaching/Classes/Czw 17.md",
-    "Juaco todo list.md",
-    "Juaco workshop.md",
-    "Aerials/Teaching/Classes/Wtorki 18.md",
-    "Aerials/Teaching/Classes/Wtorki 17.md",
-    "Aerials/Teaching/Classes/Wtorki 16.md",
-    "Aerials/Teaching/Classes/Wtorki 19.md",
-    "Personal/Todo/May.md",
-    "Aerials/Lighthouse performance ideas, thoughts.md",
-    "Performance ideas.md",
-    "Aerials/Teaching/Nocowanko.md",
-    "Aerials/Teaching/Classes/Czw 18.md",
-    "Aerials/Moje obowiazki w nowej robocie.md",
-    "Aerials/Teaching/Ideas for student performances.md",
-    "Aerials/Random ideas aerial.md",
+    "Untitled 5.md",
+    "Magnifica Łeba 31-7.md",
     "idea workshop SG.md",
-    "Untitled 3.md",
+    "Asa privates.md",
+    "SG trip - prep, itinerary etc.md",
+    "Aerials/My training/Mushu thoughts.md",
+    "Aerials/Teaching/Lena Szyrwińska.md",
+    "Personal/Kto mi oddaje kase, komu ja.md",
+    "Custom form rendering with Django and generic class-based views.md",
+    "Aerials/Teaching/Zastepstwa/14-7-2025 Stacja Grawitacja Dorosli.md",
+    "Aerials/Teaching/Drill ideas for arm roll ups.md",
+    "Personal/Todo/May.md",
+    "Personal/w domu co zrobic.md",
+    "Photography/minimal shutter speed for types of photography.md",
+    "Aerials/Moje obowiazki w nowej robocie.md",
+    "J&j sobota.md",
     "Untitled 1",
     "Untitled",
     "Aerials/Teaching/Untitled",

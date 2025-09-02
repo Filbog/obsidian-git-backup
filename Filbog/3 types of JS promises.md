@@ -2,4 +2,4 @@
 - Fullfilled - created succesfully
 - Rejected - operation failed somewhere
 
-#javascript  #programming #coding
+#javascript  #coding

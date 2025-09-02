@@ -1,4 +1,4 @@
-10-02-2025
+x10-02-2025
 
 Pytania:
  - jest jakies spotkanie sedziow przed zawodami?

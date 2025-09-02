@@ -11,8 +11,10 @@
  - [ ] Nie tylko dzieci na zajeciach, ale tez co nowego sie pojawia - szarfy, sale etc; chwalimy się sprzętem
  - [ ] Trenerami sie chwalic
 
+Ostatnie zajęcia - zajęcia pokazowe
+Tik tok
 
 ### Hashtags:
-#work #akro #praca 
+#work #akro
 
 ### References (source material, similar notes):

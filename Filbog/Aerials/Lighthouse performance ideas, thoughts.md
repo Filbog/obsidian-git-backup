@@ -6,6 +6,6 @@
 
 
 ### Hashtags:
-#aerials #aerialstraps #performance #performanceideas 
+#aerials #aerialstraps #performanceideas 
 
 ### References (source material, similar notes):

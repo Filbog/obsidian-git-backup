@@ -5,6 +5,7 @@
  - [x] Akomodacja
  - [x] Powiedz uczniom swoim P5/dorosli
  - [x] Wrzucic na sociale
+ - [ ] Wyrownac za Milene
 
 ### 
  - [ ] sciagne i skleje a’la trailer z tych video

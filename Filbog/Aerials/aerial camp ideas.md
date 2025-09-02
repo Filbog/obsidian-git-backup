@@ -4,4 +4,4 @@
  - belgijka
  - parodiowanie trenerów
 
-#aerials #aerialcamp #aerialsilks 
+#aerials #aerialcamp #aerialsilks #teaching  
