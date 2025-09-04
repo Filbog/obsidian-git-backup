@@ -4,11 +4,11 @@
  - Kto pierwszy ten lepszy - są dwa rzędy. Ludzie robią jakaś wersje „mostu”, przez ktory jedna osoba z rzędu przechodzi. I tak po kolei. Ktory rząd pierwszy skonczy, ten wygrywa
  - odwijanie mumii
  - berek szarfowy 
- - Berek kibelek V
+ - Berek kibelek 
  - Berek cyrkowy
  - Berek lawina
  - Berek lustro
- - Berek - zapamietywanka V
+ - Berek - zapamietywanka 
  - Przekazywanie imion
  - To ze sie biega wokol ze swoim imieniem
  - Marsz zwierzatek
