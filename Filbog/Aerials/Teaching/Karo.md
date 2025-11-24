@@ -1,3 +1,12 @@
+
+## 2025
+
+### 5-11
+ - [x] odkrecanie sie
+ - [x] Noga w reke
+ - [x] Na suple exeggarated
+ - [x] Kot do flagi tylem
+
 6-10-2024
  - 
 ### 27-10-2024

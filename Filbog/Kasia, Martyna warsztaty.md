@@ -8,6 +8,9 @@
  - [x] Szybki obrot na suple
  - [x] Wypchniecie bioder
 
+Pola i Ola
+Kasia i Lila
+Kasia i Lika
 ### Hashtags:
 #flyingangels 
 

@@ -4,9 +4,33 @@ Wiosna
 Kwiatki
 Natura
 ### uklad szarfa
+
+### 14-11
+ - po wejsciu na but zostaw glowe
+ - Patrzymy w publike, nawet jak cwiczymy tlyko
+ - Troche wolniej rozkret na ziemi
+ - 
+## Bolonia
+
+Cześć! Dostałam już szczegóły dotyczące Bolonii. Czy mogłabym Tobie przesłać na maila i zobaczyłbyś czy
+1.⁠ ⁠Zapisałam ją do dobrej kategorii? - muszę im potwierdzić 
+2.⁠ ⁠⁠tam są wymagania co do muzyki - tu mamy czas na dosłanie 
+3.⁠ ⁠⁠jakie figury muszą być w układzie
+4.⁠ ⁠⁠co będą oceniać (czasem stawiają mocno na strój i inne🤣)
+5.⁠ ⁠⁠wielkość sali i długość szarfy
+Może jeszcze coś tam znajdziesz…pomożesz? 
+Polecimy dosłownie na 1 dzień tylko na niedzielę bo wtedy ma występ. Dzięki!
+
+#### muza/video
+ - oni maja jakas sciane LED, mozna użyć video background do swojej choreo
+ - musi być 3:30 max
 #### wejscie
  - **trudniejsza v**: zwykle wejscie, koleine i flamenco; do vki na krzyz; biodrowy; wejscie; ladne wejscie; dynamika; back balance; flags
  - Latwiejsza: wejscie, ladne wejscie
+
+### 10-9
+ - [ ] salto z polobrotem do zawinietej nogi 
+ - [ ] Co umie na duzym bucie
 
 ### 8-6
  - [ ] cwiczenie pod C-shape z biodrowego

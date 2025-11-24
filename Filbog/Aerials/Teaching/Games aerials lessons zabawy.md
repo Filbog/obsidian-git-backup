@@ -15,6 +15,7 @@
  - Baba jaga patrzy
  - minutka - ze sie lezy, liczy w pamieci i kto najdokladniejszy
  - Dzungla 
+ - Szczurek - 1 osoba w srodku macha szarfa po okregu, reszta podskakuje
 
 
 
