@@ -2,6 +2,50 @@
 # semestr 1
 
 
+### 8-1
+Hania Ścibior
+Dana Nalivaiko
+Oliwia Żyburdowicz
+Kornelia Stanisławska
+### 18-12
+ - [ ] dwa mosty
+ - [ ] Bombka
+ - [ ] 1-2-3 baba jaga patrzy
+ - [ ] Aniolek
+ - [ ] Skorpiony
+ - [ ] Tor przeszkod?
+ - [ ] Choinka
+ - [ ] Prosiaczek
+ - [ ] Szczurek
+### 11-12
+ - [ ] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
+ - [ ] Dwa mosty
+ - [ ] Szpagaty na ziemi
+ - [ ] Vki z ziemi
+ - [ ] Fikolki z ziemj
+ - [ ] Nietoperek
+ - [ ] Bombeczka
+ - [ ] 3 szpagaty, 3x krzyzak
+ - [ ] Prosiaczek
+ - [ ] Drzewo?
+
+### 27-11
+- [ ] vki na zl
+ - [ ] Ściskanie nóg na ziemi
+ - [ ] Kobry w parach
+ - [ ] Rvr okno
+ - [ ]  Zahaczanie nogi, odrywanie reki
+ - [ ] Krzyzyk z przodu
+ - [ ] Spadek z krzyzykiem z przodu
+ - [ ] 1.5 spadku, podwojny
+ - [ ] Butki, szpagaty
+ - [ ] 1-2-3 krol patrzy
+Hania Ścibior
+Amelia Medyńska
+Kornela Stanisławska
+Oliwia Żyburtowicz
+Kornelia Czerwińska
+
 ### 20-11
  - [ ] vki na zl
  - [ ] Ściskanie nóg na ziemi

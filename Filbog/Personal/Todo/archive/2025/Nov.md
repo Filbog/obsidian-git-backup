@@ -7,19 +7,35 @@
  - [ ] Jakis wystep na ziemi
 - [x] oddam pauli pojemnik
 - [x] stacja grawitacja karnet zeby moc normalnei korzystac z calego obiektu
-- [ ] musze isc do innego ortodonty zeby uslyszec co mozna zrobic z tymi dwojkami...
-- [ ] Od Karoliny: przypominac, zeby pomiędzy seriami sobie rozciagaly rece
-- [ ] Pytania do magdy:
-	- [ ] Sytuacja mieszkaniowa: czy ma moze kogos z wolnym pokojem zebym mogl tymczasowo mieszkac, zanim znajde sobie mieszkanie. Latwiej na miejscu bedzie szukac
-	- [ ] Czy w koordynacje rowniez zalicza się rozmawianie z rodzicami, odbieranie tel o zapisy, odbieranie maili, pośredniczenie miedzy trenerami a rodzicami? - na szczescie w dużej mierze trenerzy sami sa w kontakcie z rodzicami. Nie jestesmy zadnymi posrednikami etc
-- [ ] oferta warsztatowa
-- [ ] sesja wizerunkowa
 
 
+
+### 29
+ - [ ] uloże sb w glowie na jakim etapie stoje z ukladami grupowymi pt i wt
+ - [x] checklista:
+	 - [x] pendrive
+	 - [x] zaswiadczenie
+- [x] spytaj marii co tam jeszcze wziac
+### 28
+ - spakuj pendrive i wszystkie istotne dokumenty na Bolonie
+ - Uklady grup pt VVV
+### 27
+ - [x] equipment form
+### 26
+ - [ ] odpisz kubie
+ - [x] Odp julinkowi
+ - [x] Odp zoi
+ - [x] Odp cait
+ - [x] Zobacz co ten ze szczecina odp
+ - [x] Paznokcie/depilacja
+ - [x] Muza Agaty na pendrive
 ### 24-11
  - [ ] Marlena - switch flaga-mh dołem
  - [ ] Maja - switch mh-flaga górą; cos lekkiego jako przeciwwaga
  - [ ] Maja i Marlena - jak maja wygladać "swingi" do switcha dołem
+ - [ ] śruba w szarfę; różnica między połówką a całą
+ - [ ] Ksawery - sesja swingow, full
+ - [x] Aga - napisać że używamy sprzętu organizatora
 ### 17
  - [ ] nagrywka dla magnifici
 ### 12

@@ -20,6 +20,19 @@ Cześć! Dostałam już szczegóły dotyczące Bolonii. Czy mogłabym Tobie prze
 5.⁠ ⁠⁠wielkość sali i długość szarfy
 Może jeszcze coś tam znajdziesz…pomożesz? 
 Polecimy dosłownie na 1 dzień tylko na niedzielę bo wtedy ma występ. Dzięki!
+#### flaga - participants are "permitted to"
+#### dokumenty
+ - [ ] NNW
+ - [ ] self-declaration of health od lekarza
+ - [ ] self-declaration of health z akro
+
+## inne ważne
+- You must be in the competition area **at least 2 hours before** your scheduled start time.
+- You must be ready to go on stage **at least 1 hour before** your scheduled time.
+- Artist Check-in do 12 w niedzielę, to trzeba być chwilę przed 12
+- https://maps.app.goo.gl/phiRHzTJ5gdHDau87 lokalizacja
+
+
 
 #### muza/video
  - oni maja jakas sciane LED, mozna użyć video background do swojej choreo

@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e557d0aabab2195c",
+        "id": "8061d94a0149b74e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4edfd811163ca7d",
+            "id": "131eab839ca7075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerials/Teaching/Szczecin warsztaty 1-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Szczecin warsztaty 1-2026"
+            }
+          },
+          {
+            "id": "3c834049df74b9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +34,8 @@
               "icon": "lucide-file",
               "title": "workshop SG plan, outline"
             }
-          },
-          {
-            "id": "a33e9f02120b46bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo/Nov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nov"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acousti",
+                "query": "silks f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,34 +201,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a33e9f02120b46bf",
+  "active": "131eab839ca7075f",
   "lastOpenFiles": [
+    "workshop SG plan, outline.md",
+    "Aerials/Teaching/Szczecin warsztaty 1-2026.md",
+    "Personal/Todo/archive/2025/Oct.md",
+    "Aerials/Luzwiarka glowa w gore.md",
+    "Aerials/Magda Lublin.md",
+    "Aerials/Teaching/Nocowanko.md",
+    "Aerials/Teaching/GPS 2025-2026.md",
+    "Aerials/Teaching/Games aerials lessons zabawy.md",
+    "Aerials/Teaching/Cyrkosensoryka.md",
+    "Aerials/Teaching/Lublin 2026.md",
     "Acoustic songs to play new.md",
     "Acoustic Songs to Play.md",
-    "Personal/Todo/Nov.md",
-    "workshop SG plan, outline.md",
+    "Personal/Todo/Jan.md",
+    "Personal/Todo/general.md",
+    "Aerials/Teaching/Flying Angels Round 2, 10-1-2026.md",
+    "Warsztaty leszno 12-4-2025.md",
+    "Aerials/Teaching/Maja i Lena.md",
     "magnifica 11-2025.md",
-    "Aerials/Teaching/Cyrkosensoryka.md",
-    "Aerials/Magda Lublin.md",
-    "Aerials/Teaching/Classes/2025-2026/Pon 17 akro spot.md",
-    "Aerials/Teaching/Classes/2025-2026/Untitled.md",
-    "Aerials/My training/Session to-do/2025 sesh.md",
-    "Personal/Kto mi oddaje kase, komu ja.md",
-    "Personal/Do rodaka lub bucza.md",
-    "Personal/Todo/Oct.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Aerials/Teaching/Agata S.md",
-    "Aerials/Straps to do.md",
-    "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
-    "Aerials/Teaching/Classes/2025-2026/wt 16.md",
-    "Personal/Todo/Sep.md",
-    "Acro studio Legnica workshops.md",
-    "Aerials/My training/Spin off the ground, then flare to backC or flag on silks thoughts.md",
-    "Aerials/Teaching/GPS 2025-2026.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt17.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt16 - akro P3.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw18.md",
+    "magnifica rozklad jazdy.md",
+    "Aerials/Warsztaty Gorzow Wlkp.md",
+    "Aerials/My training/Head and neck when falling onto a mat?.md",
+    "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
+    "Aerials/My training/Uneven split with wrapped same-side arm.md",
+    "Aerials/Teaching/odstąpienie od umowy o dzieło.md",
+    "Personal/Foldery na papiery, dokumenty.md",
+    "Aerials/My training/Session to-do/2026 sesh.md",
+    "Personal/Todo/archive/2025",
+    "Personal/Todo/archive",
     "Untitled 3",
     "Aerials/Teaching/Classes/2025-2026",
     "Aerials/Teaching/Zastepstwa/2024-2025",
@@ -239,8 +241,6 @@
     "00063.jpg",
     "IMG_9137.png",
     "Photography",
-    "Aerials/Teaching/Untitled",
-    "Personal/Todo/Jan",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,36 @@
 
 
+
+### 12-1
+ - [ ] Kolory
+ - [ ] wspinaczkaaaa
+ - [ ] Duzy bucior
+ - [ ] 1-2-3 krol pat-rzy
+### 5-1
+
+#### 17
+ - butki
+ - Krzeselko
+ - jeden duzy bucior
+ - Krecenie sie na suple, kuleczka
+
+#### 19
+ - szpagat z flaminga
+### 15-12
+ - czego sie nauczyly z Marika
+ - Butki
+ - Wiszenie bez zawinietych rak
+ - Aniolek
+### 24-11 
+ - malpi gaj
+ - Butki
+ - Apolonia Rąpała
+ - Nela Lenkowska
+ - Kinga Krajewska
+ - Sara Trzaskacz
+
+
+
 ### 17-11
  - przypomne zasady
  - Zawsze bedziemy zaczynac na ziemi

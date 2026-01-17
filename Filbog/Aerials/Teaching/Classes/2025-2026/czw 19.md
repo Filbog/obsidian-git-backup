@@ -2,7 +2,23 @@
 
 # semestr 1
 
-w
+
+Otwarta gwiazda, 3/4 otwartej gwiazdy z przechwytem
+Split lever, twisty split lever, z szaliczkiem
+Otwarty spad w przod, otwarty spad w bok
+Otwarty spad w przod z obrotem
+Nawijka
+
+### 11-12
+ - [ ] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
+ - [ ] Dwa mosty
+ - [ ] Szpagaty na ziemi
+ - [ ] Vki z ziemi
+ - [ ] Fikolki z ziemj
+ - [ ] Nietoperek zeby jak najmniej rekami
+ - [ ] 3 szpagaty, 3x krzyzak
+ - [ ] 
+ - [ ] 
 
 ### 30-10
  - [ ] mumia, odwijanie z bungee ?

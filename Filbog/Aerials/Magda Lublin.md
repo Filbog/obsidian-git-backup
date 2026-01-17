@@ -7,6 +7,6 @@
  - 
 
 ### Hashtags:
-
+#sztukmistrze 
 
 ### References (source material, similar notes):

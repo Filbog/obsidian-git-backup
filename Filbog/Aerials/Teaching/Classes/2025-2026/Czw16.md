@@ -3,6 +3,42 @@
 # semestr 1
 
 
+### 8-1
+ - [ ] 1-2-3 krol patrzy na 2 nogach, na 4rakach
+ - [ ] Vki
+ - [ ] Nietoperz
+ - [ ] Nietoperz na 1, skorpion z nietoperza
+ - [ ] Piotrus pan - trzymamy sie reka lub lokciem po
+ - [ ] Tylko olgi nie ma
+
+### 18-12
+ - [x] dwa mosty
+ - [x] Bombka
+ - [x] 1-2-3 baba jaga patrzy
+ - [x] Aniolek
+ - [x] Skorpiony
+ - [x] Tor przeszkod?
+### 11-12
+ - [ ] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
+ - [ ] Dwa mosty
+ - [ ] Szpagaty na ziemi
+ - [ ] Vki z ziemi
+ - [ ] Fikolki z ziemj
+ - [ ] Nietoperek
+ - [ ] Przypominam hustawke
+ - [ ] Bombeczka
+ - [ ] Suply
+ - [ ] Ksiezyc
+ - [ ] Deska
+ - [ ] Vka
+ - [ ] Spadanie przod, tyl
+ - [ ] Dzungla
+### 27-11
+ - [ ] nozyczki nogami
+ - [ ] Nietoper
+ - [ ] Krzyzyk z nietopera
+ - [ ] Kto chce hustawka
+ - [ ] Dzungla na koniec
 ### 20-11
  - [ ] leniwiec na ziemi
  - [ ] Ściskanie nóg na ziemi

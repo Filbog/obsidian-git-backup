@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerials/Teaching/Classes/2025-2026/pt 19.md",
+                "file": "Personal/Todo/Nov.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pt 19"
+              "title": "Nov"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
+                "file": "Personal/Todo/Jan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wt 17 akro P2"
+              "title": "Jan"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Cyrkose",
+            "query": "Sztukmis",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -185,7 +185,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "887f625d052e4809",
@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
+            "file": "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -252,34 +252,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35c11f9108518217",
+  "active": "526e45260b008311",
   "lastOpenFiles": [
-    "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt17.md",
-    "Aerials/Teaching/Classes/2025-2026/pt 18.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt16 - akro P3.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw18.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw16.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw17.md",
-    "Aerials/Teaching/Classes/2025-2026/Pon 17 akro spot.md",
-    "Personal/Todo/Nov.md",
-    "Aerials/Teaching/Cyrkosensoryka.md",
-    "Aerials/Magda Lublin.md",
-    "Aerials/Teaching/Classes/2025-2026/czw 20.md",
-    "Aerials/Teaching/Classes/2025-2026/czw 19.md",
-    "idea workshop SG.md",
-    "Aerials/Teaching/Agata S.md",
-    "Aerials/Teaching/Classes/2025-2026/pt 19.md",
-    "Aerials/Teaching/Classes/2025-2026/pt 17.md",
-    "Aerials/Teaching/Games aerials lessons zabawy.md",
-    "Aerials/Teaching/Classes/2025-2026/wt 20.md",
-    "Aerials/My training/Session to-do/2025 sesh.md",
-    "Performance ideas.md",
-    "Aerials/Teaching/Ideas for student performances.md",
-    "Aerials/Teaching/Classes/2025-2026/pt 16.md",
-    "Aerials/Teaching/Classes/2025-2026/czw 17.md",
+    "Personal/Todo/general.md",
     "Aerials/Teaching/Karo.md",
-    "Aerials/Teaching/Classes/2025-2026/wt 19.md",
+    "Personal/Todo/Jan.md",
+    "Aerials/Teaching/Classes/2025-2026/wt 16.md",
+    "Aerials/Teaching/Lublin 2026.md",
+    "Personal/Pracki.md",
+    "Aerials/Magda Lublin.md",
+    "Aerials/Moje obowiazki w nowej robocie.md",
+    "Aerials/Teaching/odstąpienie od umowy o dzieło.md",
+    "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
+    "Aerials/My training/Head and neck when falling onto a mat?.md",
+    "Aerials/Teaching/Classes/2025-2026/pt 18.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt17.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt16 - akro P3.md",
+    "Photography/minimal shutter speed for types of photography.md",
+    "Aerials/Teaching/Classes/2025-2026/Czw16.md",
+    "Aerials/Teaching/Classes/2025-2026/Czw18.md",
+    "Aerials/Teaching/Classes/2025-2026/Czw17.md",
+    "Aerials/Teaching/Classes/2025-2026/wt 20.md",
+    "Aerials/My training/Uneven split with wrapped same-side arm.md",
+    "Aerials/Teaching/Maja i Lena.md",
+    "Aerials/My training/Double back.md",
+    "Aerials/My training/Outside Pirouette thoughts.md",
+    "Aerials/My training/Session to-do/2026 sesh.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
+    "Personal/Todo/Dec.md",
+    "Personal/Todo/archive/2025",
+    "Personal/Todo/archive",
     "Untitled 3",
     "Untitled 1",
     "Untitled",
@@ -288,8 +290,6 @@
     "Personal/Todo/Dec",
     "Personal/Todo/Nov",
     "Coding",
-    "Aerials/Teaching/Zastepstwa",
-    "Personal/Todo",
     "00063.jpg",
     "IMG_9137.png"
   ]

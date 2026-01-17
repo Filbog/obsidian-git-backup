@@ -1,6 +1,47 @@
 
 # sem1
 
+Ola
+Ola
+Tosia
+Inga
+Misia
+Zuza
+Marysia
+Helena Schulz
+
+### 11-12
+ - [x] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
+ - [ ] Dwa mosty
+ - [ ] Szpagaty na ziemi
+ - [ ] Vki z ziemi
+ - [ ] Fikolki z ziemj
+ - [ ] Nietoperek
+ - [ ] Bombeczka
+ - [ ] 3 szpagaty, 3x krzyzak
+ - [ ] Spadek z przechwytem
+ - [ ] Lezka
+ - [ ] Lezka do spadku w przod - ogarnij wyjscie
+ - [ ] Drzewo?
+### 27-11
+  - [x] Kobry w parach
+  - [ ] Vka na 1
+ - [ ] Rvr okno
+ - [ ]  Zahaczanie nogi, odrywanie reki, gazela
+ - [ ] Aniolek z przechwytem 
+ - [ ] Krzyzyk z przodu
+ - [ ] Spadek z krzyzykiem z przodu
+ - [ ] 1.5 spadku, podwojny
+ - [ ] Nozyczki/biodrowy, leniwiec, spadek z leniwca
+ - [ ] inga kofel
+ - [ ] Tosia Tomczak
+ - [ ] Marysia Bogdan
+ - [ ] Ola Góral
+ - [ ] Helena Schulz
+ - [ ] Misia Leszczyńska
+ - [ ] Zuza Ziółkowska
+ - [ ] Helena Karpińska
+ - [ ] Ola Kościńska
 ### 20-11
   - [ ] Kobry w parach
   - [ ] Vka na 1

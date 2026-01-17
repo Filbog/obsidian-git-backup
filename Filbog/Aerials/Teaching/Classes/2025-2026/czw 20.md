@@ -4,7 +4,18 @@
 # semestr 1
 
 
-
+### 11-12
+ - [x] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
+ - [ ] Dwa mosty
+ - [x] Szpagaty na ziemi
+ - [ ] Vki z ziemi
+ - [ ] Fikolki z ziemj
+ - [ ] Nietoperek
+ - [ ] Bombeczka
+ - [ ] 3 szpagaty, 3x krzyzak
+ - [ ] Prosiaczek
+ - [ ] Szpagat co ostatnio
+ - [ ] Drzewo?
 ### 30-10
  - [ ] mumia, odwijanie z bungee ?
  - [ ] Na 17 puszczam jakas halloweenowa muze

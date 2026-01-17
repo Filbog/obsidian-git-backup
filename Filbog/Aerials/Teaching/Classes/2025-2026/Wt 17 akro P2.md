@@ -2,8 +2,27 @@
 
 # 1 semestr
 
+## choreo S1
+### muzyka: Merry Christmas Everyone
 
+### stroj - czarny dol, czerwona/zielona/czarna z elementami czerw/
+### fryzura - cos z warkoczem
 
+### Elementy: 25-11
+#### podloga: 
+4 machniecia, 8 szybkich, wymach noga
+Tylem dreptacjac podbiegamy do szarf, rozdzielamy je
+Kuleczka, Kobra, na 1 nodze
+Bombka, Bungee ma 4 wejsciach
+### 25-11
+ - bungee
+ - Kreconko
+ - Odgiecie
+ - Bombka
+ - Vka
+ - Rozkret
+ - Skorpion
+ - Zjazd
 ### 28-10
  - [ ] mumia, odwijanie z bungee ?
  - [ ] Na 17 puszczam jakas halloweenowa muze

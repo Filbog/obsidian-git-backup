@@ -3,10 +3,24 @@
 # 1 semestr
 
 
-### 21-11
-MUZYKA
 
- - [x] bungee - rozkret - łezka - odpoczywamy nie odwijajac nog z bungee - rozdzielamy szarfy - Vka - owijamy nogi - Vka/split - szybki zjazd - szaliczek - moze cos na podlodze
+### 9-1
+  - [ ] rozkret do lyzwiarki
+  - [ ] Warkocze
+  - [ ] 1-2-3 krol pat-rzy
+  - [ ] Nozyczki?
+
+## choreo
+#### muza: Norah Jones
+### czarny dol, czerwona gora
+### fryzura: jedna kitka
+#### choreo:
+ - [ ] 2 wejscia - bombka - 2 wejscia - bungee na 1/2 - rozkret - łezka - odpoczywamy nie odwijajac nog z bungee - (moze wiazemy noge) - Vka - 1 kryzyk z tylu - 1 z przodu - kreconko - split - szybki zjazd - szaliczek - wyjscie przez fikolka w tyl
+ - [ ] Na poczatku muza leci, dziewczyny wchodza na muzyke - jak maja podejsc?
+ - [ ] Podloga - podnoszenie 2 osoby jedną, reszta szpagaty. Obrocikami dochodzą do szarfy
+
+### 5-12
+ - [ ] bungee na 1 jako opcja zamiast zwyklego - ale zastrzeż, ze duzo ciezei w nim wytrzymac
 ### 7-11
  - [x] Vki w powietrzu 
  - [x] Aniolek 
