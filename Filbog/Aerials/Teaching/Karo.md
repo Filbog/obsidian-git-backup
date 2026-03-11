@@ -3,8 +3,15 @@
 ### cele - C-shaping, motylki
  - w strait jacket lewa strona slabo pracuje
 
-
-
+### 11-2
+ - super marios
+ - Deska z nogami elevated
+ - Push w podporze na prostych rekach
+ - Windmille
+### 21-1
+ - z gumami
+ - motylki, nawiniecie z back balansu, z tego przejscie w motylki
+ - Fajnie wyszedl kaftan bardzo, i nawijka na talie na koncu wyszla top
 ### 14-1 -cos pod push w dziwnych zakresach, jakie uzywamy w szeroko pojetym C-shapingu
 ### 7-1
  - z guma reka flagowa - 2 serie, jedna samo prostowanie reki

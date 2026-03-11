@@ -3,6 +3,32 @@
 # semestr 1
 
 
+### 12-2
+ - [ ] jak ich mniej to drzewo
+ - [ ] Zawijamy sie w butkach
+ - [ ] Szczurek?
+ - [ ] Murarz?
+ - [ ] Inwazja?
+ - [ ] Syrenka
+### 5-2
+ - [x] agent na 2 życia
+ - [ ] Na ziemi porob, mostek ze stania etc
+ - [ ] Dluzsza dżungla
+ - [ ] Vki, w powietrzu
+ - [ ] Zawijanie nóg x2
+ - [ ] Zjazd, rozkret
+### 28-1
+ - [x] szczurek
+ - [x] 2 zawiniecia nogi
+### 21-1
+ - [ ] Berek szarfowy
+ - [ ] 2 zawiniecia nogi
+ - [ ] Syrenka, wychylenie w tyl, przod
+ - [ ] Sekwencja Vka - kieliszek - pilka - vka - golab - piotrus pan
+ - [ ] Vka z supla ze stania
+ - [ ] Szczurek XXX
+### 15-1
+ - [ ] 
 ### 8-1
  - [ ] 1-2-3 krol patrzy na 2 nogach, na 4rakach
  - [ ] Vki

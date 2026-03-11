@@ -2,6 +2,16 @@
 
 # 1 semestr
 
+
+### 3-2
+ - wiaza nogi w powietrzu
+ - Wszystkie robia Vki, ogarniaja aniolka
+ - Obroty w szpagacie???
+ - Prosiaczek/skorpion
+ - Bungee z nog na dwa razy
+ - Krzyzak
+ - Zwis na kolanach z krzyzykiem na plecach
+ - Lezka
 ## choreo S1
 ### muzyka: Merry Christmas Everyone
 

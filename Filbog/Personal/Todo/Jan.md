@@ -1,8 +1,59 @@
 
+### 28
+ - [x] Restory Maja
+ - [x] do rodzicow wery
+ - [x] Do mamy igi
+ - [ ] Ogole
+ - [ ] Poucze sie do prawka - 1-2 rozdzialy w ksiazce, tesciki
+ - [x] Karolina
+ - [x] Wojtek
+ - [ ] Agata
+ - [x] Wlasny trenio z Ola
+ - [ ] Apteka?
+ - [x] Magda Ch - odpisze
 
+### 26
+ - [ ] do rodzicow wery
+ - [ ] Do mamy igi
+ - [x] Opisze basi ta galekk
 
+### 24
+ - [ ] Co z tym luppo - obczaje
+ - [ ] Ogole
+ - [ ] Poucze sie do prawka
+ - [ ] Do rodzicow Weroniki
+### 23
+ - [ ] Do prawka sie poucze
+ - [ ] Spisze sb co w grawi robilem
+ - [x] Tabletki z apteki
+ - [ ] Co z tym luppo - obczaje
+ - [ ] Ogole
+ - [x] Pazy
+ - [x] Praca
+ - [x] Wlasny trening - straps, ziemia
+### 22
+ - [x] odpisze joannie
+ - [x] Odpisze magdalenie
+ - [x] Praca
+ - [x] Wojtek 14-15
+ - [x] Wyniose smieci z pokoju
+ - [ ] Do prawka sie poucze
+ - [ ] Spisze sb co w grawi robilem
+ - [ ] Tabletki z apteki
+ - [ ] Co z tym luppo - obczaje
+### 19
+ - [ ] spisze sb co robilem z dzieciorami w akro spot
+ - [ ] Tabletki apis
 ### 16
- - [ ] schowam papiery z Bolonii zeby przekazac Agacie po zajeciach
+ - [x] schowam papiery z Bolonii zeby przekazac Agacie po zajeciach
+ - [x] Tabletki apis
+
+### 15
+ - [x] wysle szwedu tekst
+ - [x] Praca praca 
+ - [ ] Zmyware
+ - [ ] Prep do pracy
+ - [ ] Znajde cos na warsztaty
 ### 14
    - do ssweda napisze, asertywnosc! Nis daj sie zajechac i wykorzystc
 
@@ -37,17 +88,7 @@
 ### 8 
  - [x] powiem kacpru
  - [ ] powiem akrotejom
- - [ ] rozmowa kuba
-	 - [ ] zakres obowiązków?
-	 - [x]  ilość godzin =/= ilosć zajęć
-	 - [x] finanse: Że sztukmistrze to dla mnie bardzo interesująca droga kariery, ale wiąże się także ze zmianą miejsca zamieszkania. Muszę się utrzymać mieszkając sam w nowym mieście. I czy możemy po ew. okresie probnym lub od września wrocić do tematu wypłaty
-	 - [ ] zaswiadczenie o niekaralnosci, rejestr przestepstw seksualnych
-	 - [ ] wniosek o przesiedlenie  - zeby nie miec problemow z uzyskaniem dofinansowania
-	 - [ ] ewaluacja po czerwcu - tzn czy działamy dalej wspólnie, czy nie
-	 - [ ] bycie w zespole - angażowanie się w ekstracurricularne projekty, sprawy
-	 - [ ] zespół pedagogiczny
-	 - [ ] kręcenie dzieci - RODO - mają podpisane
-		 - [ ] maja team social mediów?
+ - [ ] 
  - [x] praca grawi
  - [ ] Zaslonie ta szpare co zimno leci
  - [ ] gitarra 15min

@@ -3,6 +3,55 @@
 Wiosna 
 Kwiatki
 Natura
+
+
+
+## 2026 choreo
+
+#### Pomysly 
+ - dwie pory roku, np wiosna i zima; 
+	 - Jak wiosna to szybciej, energiczniej; np budzenie sie do zycia; np spady, lyzwiarki
+	 - zima - spokojniejsze, wolniej etc
+	 - Od zimy do wiosny
+		 - Przejscie - podczas motylkow(?)
+ - Misje:
+	 - Tytul
+	 - Jak konkretnie mozna realizowac ten pomysł, tę historię
+	 - Zeby muzy sluchac i sobie powyobrazac, poinspirowac sie
+
+### elementy 
+ - bananek
+	 - Wyjscie z szarfami w srodku - mozna dalej wchodzic np przez Vke na zlaczonych, lub double knee hook
+	 - Wyjscie z szarfami na zewnatrz - mozna np do loop splita lub infinity front flip, i potem double knee hook
+ - Igła w nierownym skorpionie
+	 - Przejscie do nawijek noga-reka? Jak to zrobic jak najplynniej
+	 - Noga-reka do blokady?
+ - Nawijki noga-reka
+ - Nawijki na talii(?)
+ - Spadek gwiazdą w otwartego skorpiona
+ - Vka na zl do s-wrap
+ - Helikoptery
+ - DLA MNIE przejsice z szpagatu pionowego w nawijki noga-reka
+ - Podłoga: valdez
+
+#### po kolei
+
+##### spokojniejsza czesc
+Waga szpagatowa - nawijki na talii - s-wrap - spad w skorpiona - skorpion - zejscie na podloge 
+po skorpionie duzy spad?
+
+##### szybsza
+V 27.2
+Balanas w szpagacie - przejscie w szpagat na boki JEDEN - nierowny skorpion - igla - wspinaczka - paszki - bananek - drop w tyl
+
+
+### 1-3
+ - wersja bez nierownego skorpio
+
+
+### 28-1
+ - pomysl jak realizowac te 2 pomysly
+ - Be
 ### uklad szarfa
 
 ### 14-11

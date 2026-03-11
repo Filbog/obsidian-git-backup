@@ -1,0 +1,84 @@
+03-03-2026
+
+#### asertywnosc!!!
+
+
+
+### 17-3
+ - [ ] przycpodlodze co mozna zrobic
+### 10-3
+ - regulamin spisać
+ - Zabawa - ten ich zbijak?? Obczaj w magazynku czy sa pilki do jogi
+ - Chcą do tego magazynku na ostatnie 30min?
+ - Szpagaciory
+ - Powiedz temat
+ - Odhacz co KAŻDY umie/jest potencjał że będzie umieć 
+ - Niech popokazują co umieją - przypominajka
+	 - OBCZAJ ten doc od Magdy
+ - Krzyzakkk
+ - Swinka
+ - Point/flex
+ - Szpagaty
+
+### 3-3
+### wstep, sprawy organizacyjne
+  - cos o sobie powiedz
+  - Ze jest mniej szarf niz uczestnikow, ale to tak naprawde nie przeszkadza. Bede sie staral sprawiedliwie ale pamietamy, ze rozne zajecia roznie wygladaja, i mie zawsze spedza sie podczas nich tyle samo czasu
+  - Uklady: temat podroze. Niech sie juz zastanawiaja, mysla, zapisuja pomysly, muzyke
+  - Dzisiaj ma czilku sobie wrocimy po przerwie
+  - Poznajemy sie, niech kazdy powie 1-10 jak ferie minely
+  - Jestem inny niz Magda, postaram sie isc znanym im systemem ale na pewno beda troche zmiany
+  - Na nastepnych zajeciach spiszemy regulamin
+
+Fela
+Mela
+Luna
+Maja
+Maja
+Weronika
+Ròza
+Lucja
+Ula
+
+### system zajec
+	 - zbieramy się w kółeczku, sprawdzanie obecności; jak tam minął dzien;
+		 - zabawa
+		 - rozgrzewka normalna
+		 - zwierzatka/wzmacniaki na podlodze jak scyzoryki, łódka etc
+		 - czesc szarfowa
+			 - czasem tor przeszkod zamiast czesci szarfowej
+		 - zabawa 
+		 - rozciaganie
+
+### zabawa - zapamietywanka
+### rozgrzewka normalna
+ - kolyski
+ - Wymachy ramion
+ - Pompki
+
+### czesc szarfowa
+ - wkrety, wykrety
+- Przeskakiwanie materaca
+ - Fikolki
+ - Pompki
+ - Bujniecie ze zgietych
+ - Kreciol
+ - Vki, meksykanka?
+ - Nietoperz - co to?
+ - Co umieja z Vki, czy robily na rozl
+##### zawiazane nogi
+ - czy/kto robi w powietrzu
+ - Szpagaciory
+ - Krzyzyk na plecach - jakim sposobem? Co umieja z niego?
+ - Krzyzak - push, wznos nog
+	 - Ppomagamy sobie nawzajem w wejsciu do krzyzaka
+##### supelki
+
+#### zabawa - podloga to lawa
+
+### rozciaganie
+### Hashtags:
+
+
+### References (source material, similar notes):
+-

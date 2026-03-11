@@ -4,6 +4,16 @@
 # semestr 1
 
 
+### 5-2
+ - [x] Odwrocony jelonek
+ - [x] Lyzwiarka glowa w dol
+ - [x] Wskakujemy fikolkiem
+ - [ ] Taka sekwencja: wskakujemy do vki w obrocie na warkoczu, skorpion, lyzwiarka, wchodzimy do ulubionego spadu
+### 22-1
+ - kreca sie ladnie na warkoczaxh
+ - Wejscie do Vki w obrocie, suplowa lyzwiarka glowa w dol
+ - Nogi w powietrzu calkiem sprawnie wiążą
+
 ### 11-12
  - [x] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
  - [ ] Dwa mosty

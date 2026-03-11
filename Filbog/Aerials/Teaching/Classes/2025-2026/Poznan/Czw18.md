@@ -10,6 +10,26 @@ Zuza
 Marysia
 Helena Schulz
 
+### 12-2
+ - [ ] jak ich mniej to drzewo
+ - [ ] Zawijamy sie w butkach
+ - [ ] Szczurek?
+ - [ ] Murarz?
+ - [ ] Inwazja?
+ - [ ] Jelonek
+ - [ ] Łezka, plątanina
+### 5-2
+ - [x] berek-agent
+ - [ ] Szpagat w palcach, bez rąk
+ - [ ] Wyjscie z prosiaczka przez fikolka w tyl
+ - [ ] Co umiemy z jednej nogi na dwoch szarfach
+ - [ ] Jelonek wypychany
+### 21-1 
+ - berek szarfowy XXX
+ - Przejscie sklon-Vka XXXXX
+ - Wejscie normalne, pająk, Vkami na krzyz VVV
+ - Kontynuacja lyzwiarki glowa w dol VVVV
+
 ### 11-12
  - [x] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
  - [ ] Dwa mosty

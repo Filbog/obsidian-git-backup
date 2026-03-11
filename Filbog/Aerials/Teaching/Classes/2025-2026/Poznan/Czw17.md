@@ -2,6 +2,26 @@
 # semestr 1
 
 
+### 12-2
+ - [ ] jak ich mniej to drzewo
+ - [ ] Zawijamy sie w butkach
+ - [ ] Szczurek?
+ - [ ] Murarz?
+ - [ ] Inwazja?
+ - [ ] Syrenka
+
+### 5-2
+ - [ ] Inwazja
+ - [ ] Krol pat-rzy
+ - [ ] Kazdy jaka chce wersje bungee
+ - [ ] spadanie do tylu z lezki
+
+### 21-1
+ - [ ] berek szarfowy
+ - [ ] Bungee na 1
+ - [ ] Łezka
+ - [ ] Chwycenie wolnej nogi z lezki XXX
+ - [ ] Lezka, chwycenie nogi, spadek w tyl XXX
 ### 8-1
 Hania Ścibior
 Dana Nalivaiko

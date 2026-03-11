@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64e30677a697794e",
+        "id": "726d9f164c193bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6561388e2d63e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pomysł na występ - wiosna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pomysł na występ - wiosna"
-            }
-          },
-          {
-            "id": "3d1db6ddb9e8cf40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo/Apr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apr"
-            }
-          },
-          {
-            "id": "c263ccd9cde1a469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo/May.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "May"
-            }
-          },
-          {
-            "id": "4c326906a4301661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo/Nov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nov"
-            }
-          },
-          {
-            "id": "f323fd195425d7f0",
+            "id": "c584862e690cce45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,49 +22,35 @@
             }
           },
           {
-            "id": "83707c473e12d5d3",
+            "id": "b30c638e8cc7fa59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo/June.md",
+                "file": "Aerials/Pokazy koncowe 1.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "June"
+              "title": "Pokazy koncowe 1.6"
             }
           },
           {
-            "id": "98506cfbc01d7c8e",
+            "id": "2f8a8d489c08434a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo/August.md",
+                "file": "Personal/Todo/Feb-Mar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "August"
-            }
-          },
-          {
-            "id": "5d9c5739f68e6679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerials/Teaching/Classes/2025-2026/Czw16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Czw16"
+              "title": "Feb-Mar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +69,7 @@
             "autoReveal": true
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Przeglądarka plików"
         }
       },
       {
@@ -148,15 +78,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Sztukmis",
+            "query": "Magda ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "Wyszukiwarka"
         }
       },
       {
@@ -168,7 +98,7 @@
             "sortOrder": "frequency",
             "useHierarchy": true,
             "showSearch": true,
-            "searchQuery": "Todo"
+            "searchQuery": "Sztukmistr"
           },
           "icon": "lucide-tags",
           "title": "Tags"
@@ -185,7 +115,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "887f625d052e4809",
@@ -197,17 +127,17 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
+            "file": "Personal/Todo/Feb-Mar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": true,
             "searchQuery": "Sca",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Linki zwrotne"
         }
       },
       {
@@ -241,45 +171,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "526e45260b008311",
+  "active": "2f8a8d489c08434a",
   "lastOpenFiles": [
-    "Personal/Todo/general.md",
-    "Aerials/Teaching/Karo.md",
-    "Personal/Todo/Jan.md",
-    "Aerials/Teaching/Classes/2025-2026/wt 16.md",
-    "Aerials/Teaching/Lublin 2026.md",
-    "Personal/Pracki.md",
     "Aerials/Magda Lublin.md",
-    "Aerials/Moje obowiazki w nowej robocie.md",
-    "Aerials/Teaching/odstąpienie od umowy o dzieło.md",
-    "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
-    "Aerials/My training/Head and neck when falling onto a mat?.md",
-    "Aerials/Teaching/Classes/2025-2026/pt 18.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt17.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt16 - akro P3.md",
-    "Photography/minimal shutter speed for types of photography.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw16.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw18.md",
-    "Aerials/Teaching/Classes/2025-2026/Czw17.md",
-    "Aerials/Teaching/Classes/2025-2026/wt 20.md",
-    "Aerials/My training/Uneven split with wrapped same-side arm.md",
-    "Aerials/Teaching/Maja i Lena.md",
-    "Aerials/My training/Double back.md",
-    "Aerials/My training/Outside Pirouette thoughts.md",
-    "Aerials/My training/Session to-do/2026 sesh.md",
-    "Aerials/Teaching/Classes/2025-2026/Wt 17 akro P2.md",
-    "Personal/Todo/Dec.md",
+    "Aerials/Pokazy koncowe 1.6.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 15 8-11 kont.md",
+    "Personal/Todo/Feb-Mar.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 20 dynamika.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 16 11-15 kont.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt 17 8-11.md",
+    "Personal/Todo list.md",
+    "Safety.md",
+    "Personal/Todo/Jan.md",
+    "Dodawanie czlonka rodziny w iCloud.md",
+    "Aerials/Teaching/Nowe cw.md",
+    "Wątpliwości co do podjęcia pracy.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 18 14-20.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/pt 18.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt17.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw16.md",
+    "Aerials/Teaching/Lublin 2026.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan",
+    "Aerials/Teaching/Classes/ind.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 18.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt 19 dynamika.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt16 - akro P3.md",
+    "Bez nazwy.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/czw 20.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw18.md",
     "Personal/Todo/archive/2025",
     "Personal/Todo/archive",
     "Untitled 3",
@@ -289,7 +220,6 @@
     "Personal/Todo/Jan",
     "Personal/Todo/Dec",
     "Personal/Todo/Nov",
-    "Coding",
     "00063.jpg",
     "IMG_9137.png"
   ]

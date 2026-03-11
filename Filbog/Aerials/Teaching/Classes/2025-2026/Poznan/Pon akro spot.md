@@ -1,6 +1,64 @@
 
 
 
+### 9-2
+ - kolory
+ - Krecimy sie
+ - wchodzenie
+ - Schodzenie
+ - Nietoperz
+ - Szpagaty
+ - Krecenie
+ - Lyzwiarka figurowa
+
+
+19:25
+Robia Vki na rozl
+Flamingo
+Dwie siostry -byly dopiero na 2 zajeciach. Sprawne, ale nie znaja super duzo elementow.
+Harakiri
+### 2-2
+
+17:15
+ - Wchodzenie, schodzenie
+ - Wyciagara
+ - Pokrecilismy sie
+
+18:20
+ - Wchodzenie, schodzenie
+ - Vki w powietrzu, nietoperz, hustawka
+ - przyszlo duzo nowych osob, troche chaos byl
+ - Wiazanie nog w powietrzu
+
+19:25
+ - co umiemy
+	 - Krzyzyk z przodu
+	 - Vki na zl zaczelismy
+	 - Łezka - udalo sie zrobic ze wszystkimi
+	 - Prosiaczek - siostry czy umieja?
+ - Vki w powietrzu, nietoperz, hustawka
+ - wszyscy robia Spadek w przod
+ 
+
+20:30
+ - co chwile przychodza nowe osoby na roznym poziomie, ciezko jednorodne zajecia prowadzic. Mix poziomow, trzeba sie troche dopasowywać
+ - Z Kuba M spad w przod z Vki na rozl
+ - Z Basia zahaczaliśmy sie na suple do żaby, za tydzien wchodzimy do dużej żaby
+
+19:25
+ - wchodzilismy w obrot z ziemi wisząc na rekach 
+ - Flamingo
+ - Szpagat glowa w dol z flaminga
+18:20
+ - [ ] wspinaczka
+ - [ ] Butki
+ - [ ] Wiazanie suplow
+ - [ ] Spadek w przod
+17
+ - [x] krol pat-rzy
+ - [ ] Wchodzenie-schodzenie
+ - [x] Sara but w pow
+ - [ ] Warkocze
 ### 12-1
  - [ ] Kolory
  - [ ] wspinaczkaaaa

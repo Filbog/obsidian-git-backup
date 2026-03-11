@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerials/Teaching/Szczecin warsztaty 1-2026.md",
+                "file": "Personal/Todo/Feb-Mar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Szczecin warsztaty 1-2026"
+              "title": "Feb-Mar"
+            }
+          },
+          {
+            "id": "ba5cfd5a19f88327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Foldery na papiery, dokumenty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foldery na papiery, dokumenty"
+            }
+          },
+          {
+            "id": "7918b50876a71d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerials/Magda Lublin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magda Lublin"
+            }
+          },
+          {
+            "id": "325ce7ebc1a398f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pt 16 11-15"
             }
           },
           {
@@ -67,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "silks f",
+                "query": "lidi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,32 +244,33 @@
   },
   "active": "131eab839ca7075f",
   "lastOpenFiles": [
-    "workshop SG plan, outline.md",
-    "Aerials/Teaching/Szczecin warsztaty 1-2026.md",
-    "Personal/Todo/archive/2025/Oct.md",
-    "Aerials/Luzwiarka glowa w gore.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
+    "Personal/Todo/Feb-Mar.md",
     "Aerials/Magda Lublin.md",
-    "Aerials/Teaching/Nocowanko.md",
-    "Aerials/Teaching/GPS 2025-2026.md",
-    "Aerials/Teaching/Games aerials lessons zabawy.md",
-    "Aerials/Teaching/Cyrkosensoryka.md",
-    "Aerials/Teaching/Lublin 2026.md",
-    "Acoustic songs to play new.md",
-    "Acoustic Songs to Play.md",
-    "Personal/Todo/Jan.md",
-    "Personal/Todo/general.md",
-    "Aerials/Teaching/Flying Angels Round 2, 10-1-2026.md",
-    "Warsztaty leszno 12-4-2025.md",
-    "Aerials/Teaching/Maja i Lena.md",
-    "magnifica 11-2025.md",
-    "magnifica rozklad jazdy.md",
-    "Aerials/Warsztaty Gorzow Wlkp.md",
-    "Aerials/My training/Head and neck when falling onto a mat?.md",
-    "Aerials/Teaching/Classes/2025-2026/Pon akro spot.md",
-    "Aerials/My training/Uneven split with wrapped same-side arm.md",
-    "Aerials/Teaching/odstąpienie od umowy o dzieło.md",
+    "Wątpliwości co do podjęcia pracy.md",
+    "Notatki dot. Polityki ochrony dzieci u sztukmistrzów.md",
+    "Call 26-02.md",
+    "Safety.md",
     "Personal/Foldery na papiery, dokumenty.md",
-    "Aerials/My training/Session to-do/2026 sesh.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 18 14-20.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 20.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 19.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 18.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 16.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/pt 19.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/pt 18.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/czw 20.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/czw 19.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Wt 17 akro P2.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt17.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt16 - akro P3.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Pon akro spot.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw18.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw17.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw16.md",
+    "Aerials/Teaching/Classes/2025-2026/Poznan",
+    "Aerials/Teaching/Classes/2025-2026/Pt 19 dynamika.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 20 dynamika.md",
     "Personal/Todo/archive/2025",
     "Personal/Todo/archive",
     "Untitled 3",
@@ -240,7 +282,6 @@
     "Untitled",
     "00063.jpg",
     "IMG_9137.png",
-    "Photography",
     "Untitled.canvas"
   ]
 }

@@ -8,7 +8,7 @@
 5) dokumenty, MRI kręgosłupa (dyskopatia)
 6) Dokumenty prawko
 7) umowy mam talent
-
+8) dokumenty GPS
 
 ### 2
 1) Polisa OC PZU 2023-2024; umowa trenera zewnętrznego

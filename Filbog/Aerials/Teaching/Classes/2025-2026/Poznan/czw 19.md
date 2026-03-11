@@ -9,6 +9,15 @@ Otwarty spad w przod, otwarty spad w bok
 Otwarty spad w przod z obrotem
 Nawijka
 
+### 5-2
+ - [ ] krol-pat-rzy 3 wejscia, prosiaczek, wyjscie, odwiniecie nog
+ - [ ] Krol-pat-rzy el3 wejscia, krzyzak
+ - [ ] Rozkrecamy sie, kombos w obrocie ze szpagatem, Vki na krzyz, biodrowy
+ - [ ] Spadek lamany w przod do prosiaczka lub jelonek wypychany
+### 22-1
+ - [x] lyzwiarka glowa w dol, sekwencja cala z dropem
+ - [x] Spadeczek z podporu ze stania na przedramionach
+
 ### 11-12
  - [ ] Berek wersja zwierzatka: czworaki, raki, pingwiny, zabki, zajaczki
  - [ ] Dwa mosty

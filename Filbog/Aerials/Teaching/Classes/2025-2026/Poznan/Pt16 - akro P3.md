@@ -1,19 +1,37 @@
 
+
 # 1 semestr
 
-## choreo
- - [ ] powolne wejscie - moze takie ladne odgiecie/a glowa w tyl - bombeczka - z 4 te wejscia lacznie - rozdzielamy szarfe, czekamy na muze - zawiniecie, 2 krzyzyki - owijam 1 noge, owijam 2ga - gazela - tu bylo machniecie szarfami? - ladnie sie wsunac orzed dropem - otwarty aniolek w przod - ogony w srodek - golab - drop w tyl - odwijka - potem albo arabeska, albo zyrafa - zyrafa, krecimy sie
-### 28-11
- - [ ] Agata podwojna gwiazda
 
-### 14-11
- - [ ] Arabeska - krzeselko - aniolek z przechwytem - wracamy do Vki - spad w tyl - koniec?
+
+### 23-1
+ - podw gwiazda
+ - Noga w reke przed podwojna gwiazda
+### 9-1
+  - [ ] rozkret do lyzwiarki
+  - [ ] Warkocze
+  - [ ] 1-2-3 krol pat-rzy
+  - [ ] Nozyczki?
+
+## choreo
+#### muza: Norah Jones
+### czarny dol, czerwona gora
+### fryzura: jedna kitka
+#### choreo:
+ - [ ] 2 wejscia - bombka - 2 wejscia - bungee na 1/2 - rozkret - łezka - odpoczywamy nie odwijajac nog z bungee - (moze wiazemy noge) - Vka - 1 kryzyk z tylu - 1 z przodu - kreconko - split - szybki zjazd - szaliczek - wyjscie przez fikolka w tyl
+ - [ ] Na poczatku muza leci, dziewczyny wchodza na muzyke - jak maja podejsc?
+ - [ ] Podloga - podnoszenie 2 osoby jedną, reszta szpagaty. Obrocikami dochodzą do szarfy
+
+### 5-12
+ - [ ] bungee na 1 jako opcja zamiast zwyklego - ale zastrzeż, ze duzo ciezei w nim wytrzymac
 ### 7-11
- - aniolek z przechwytem
- - Arabeska
- - Nozyczki 
- - Zyrafa, spadek obrotowy z zyrafy?
- - Leniwca
+ - [x] Vki w powietrzu 
+ - [x] Aniolek 
+ - [x] Nogi 2 powietrzu
+ - [x] Zjazd
+ - [ ] Vki na zlaczonych
+ - [ ] Flaming
+### 31-10
 
 ### 26-9
  - pompki
@@ -24,20 +42,18 @@
  - Fikolek ze zgietych lub prostych bez odbicia
  - Kobra
  - szpagaty
- - Wyjscie przez kobre z aniolkowych rzeczy
- - S-wrap
- - Lyzwiarka s-wrap
-
+ - Wyjscie przez kobre
+ - Aniolek z krzyzykiem z przodu
+ - Sekwencja aniolkowa: gazela, golab
 ### 12-9
  - rozgrzewa - berek jakis?
- - Baba jaga patrzy
  - Pompki
- - Rvr jelonek
- - Amazonka
+ - Baba jaga patrzy
+ - Rvr jelonek Vvvv
  - Wolny zjazd
- - Szybki zjazd
+ - Szybki zjazd VVVV
  - Arabeska
- - Arabeska premium
+
 ### 5-9
  - zasady! Szczególnie w dużych salach:
 	 -  jak ja cos tlumacze to podchodzimy blizej zeby slyszec, czasem jest glosno i ciezko sie skupic
@@ -63,7 +79,8 @@
  - Probijemy 1 krzyzyk
  - Zjazd wolny
  - Zjazd szybki
- - #### cooldown  
+ - #### cooldown 
+
 
 
 
