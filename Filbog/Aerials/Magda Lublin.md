@@ -156,7 +156,7 @@ Pisanie wieczorami - obrazaja sie? Lepiej pisac w godzinach pracy?
 	 - Zapisy na drzwi otwarte - przez system luppo. Jesli ktos anuluje - prosimy o informacje telefoniczna
 
  - przenoszenie z grupy do grupy - trenerzy miedzy soba
-#### zapisuy na regularne zajecia
+#### zapisy na regularne zajecia
  - zostaja otwarte po drzewiach otwartych, Magda M otwiera. Ja jako koordynator wysylam powiadomienie do uczestnikow zapisanych na drzwi otwarte.
 	 - Albo ja otwieram? Też mogę?
 	 - **moge miec gotowy link do zapisów** - wydrukowany kod QR
@@ -241,6 +241,15 @@ Jeśli niepewna ilczba miejsc - wejść przez GRAFIK - tam widać także osoby n
 #### misc 
  - jesli ja jestem chetny i jakas grupa jest chetna - mozemy przedluzyc jesli zbierze sie 7 osob
  - Lub otwarte treningi szarfowe
+
+### Wpisywanie do tabelki
+ - skad najlepiej brac info?
+ - skąd np. poziom trudności brać?
+ - zapisy - kiedy BRAK, a kiedy tę standardową formułkę przeklejać
+ - skad brac liczbe miejsc - to samej tabelki brałem z poprzednich istniejących już blokow tych zajęć, ale np o kole cyra brak info bo nie istnaily wczesniej
+ - kolumna O w tabelce, wejścia próbne - standardem jest NIE. Wyjątkiem ogniomistrze i cyrkowe, jo?
+ - Czy jest jakiś wzór do obliczenia, lub rozpiska możliwych nieobecności do odrobienia?
+ - Wejścia jednorazowe - gdzie/czy jest to brane pod uwagę w tej tabelce?
 
 Lista
 Henio

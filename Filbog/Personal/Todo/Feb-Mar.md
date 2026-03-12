@@ -12,18 +12,26 @@
  - [ ] zajecia aga
 
 ### 12 
+ - [x] Do mamy lucji ze jak by szla odrabiac w ten pt to sa w domu zolnierza
+ - [x] spytaj rafala czy moge wbic po przesylke
+ - [x] Tabelka
+ - [ ] weź odpowiednie rzeczy z mieszkania! Na zawody
+	 - [ ] laptok
+	 - [ ] tablet
+	 - [ ] kable!
+	 - [ ] retainer
+ - [ ] spotkanie MAgda 13:00
+	 - [ ] spytaj o tabelke
  - [ ] zostawie medycyne pracy i faktury tam gdzie umowy
- - [ ] Do mamy lucji ze jak by szla odrabiac w ten pt to sa w domu zolnierza
- - [ ] Spisze sb co robilem z grupami we wt
- - [ ] Nadrobie clickup
  - [ ] Zawieszenie kretlikow?
  - [ ] Trenio wlasny na akademii lub w domku
- - [ ] Do mamy lucji ze jak by szla odrabiac w ten pt to sa w domu zolnierza
- - [ ] Tabelka
- - [ ] spotkanie MAgda 15:30 Niewylej
- - [ ] spytaj rafala czy moge wbic po przesylke
  - [ ] ROLKA XDDD
+	 - [x] outline zrobiony
+	 - [ ] sprobuje nagrac w DŻ
  - [ ] pociag 18
+ - [ ] Spisze sb co robilem z grupami we wt
+ - [ ] Nadrobie clickup
+ - [ ] napisze do mamy Heleny jak tam życie
 ### 11
  - [x] notatka dla Karo o grupach pt
  - [ ] Spisze sb co robilem z grupami we wt

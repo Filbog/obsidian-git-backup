@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a4cddecf70154ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rolka zawody flying angels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rolka zawody flying angels"
+            }
+          },
+          {
             "id": "ba5cfd5a19f88327",
             "type": "leaf",
             "state": {
@@ -109,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lidi",
+                "query": "#sztukmistrze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,12 +258,13 @@
   },
   "active": "131eab839ca7075f",
   "lastOpenFiles": [
-    "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
-    "Personal/Todo/Feb-Mar.md",
     "Aerials/Magda Lublin.md",
+    "Call 26-02.md",
+    "Personal/Todo/Feb-Mar.md",
+    "Rolka zawody flying angels.md",
+    "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
     "Wątpliwości co do podjęcia pracy.md",
     "Notatki dot. Polityki ochrony dzieci u sztukmistrzów.md",
-    "Call 26-02.md",
     "Safety.md",
     "Personal/Foldery na papiery, dokumenty.md",
     "Aerials/Teaching/Classes/2025-2026/Wt 18 14-20.md",
@@ -270,7 +285,6 @@
     "Aerials/Teaching/Classes/2025-2026/Poznan/Czw16.md",
     "Aerials/Teaching/Classes/2025-2026/Poznan",
     "Aerials/Teaching/Classes/2025-2026/Pt 19 dynamika.md",
-    "Aerials/Teaching/Classes/2025-2026/Wt 20 dynamika.md",
     "Personal/Todo/archive/2025",
     "Personal/Todo/archive",
     "Untitled 3",
