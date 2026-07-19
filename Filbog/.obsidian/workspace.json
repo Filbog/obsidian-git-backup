@@ -4,94 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "8061d94a0149b74e",
+        "id": "f8265e55e5045ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "131eab839ca7075f",
+            "id": "851e8c728fa2dbbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo/Feb-Mar.md",
+                "file": "kwestionariusz poziomy oboz GPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feb-Mar"
+              "title": "kwestionariusz poziomy oboz GPS"
             }
           },
           {
-            "id": "a4cddecf70154ce3",
+            "id": "6befc58357228fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolka zawody flying angels.md",
+                "file": "Oboz 2026 treningi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rolka zawody flying angels"
+              "title": "Oboz 2026 treningi"
             }
           },
           {
-            "id": "ba5cfd5a19f88327",
+            "id": "32e70e9c8f1bc6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Foldery na papiery, dokumenty.md",
+                "file": "Aerials/Camps, taking care of children/pomysly, notatki obozowe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foldery na papiery, dokumenty"
+              "title": "pomysly, notatki obozowe"
             }
           },
           {
-            "id": "7918b50876a71d2b",
+            "id": "df016d24d6e66b69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerials/Magda Lublin.md",
+                "file": "Random notatki oboz GPS 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magda Lublin"
+              "title": "Random notatki oboz GPS 2026"
             }
           },
           {
-            "id": "325ce7ebc1a398f5",
+            "id": "2c3ecb950c2df1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
+                "file": "obowiązki, co musze wiedziec na obozie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pt 16 11-15"
+              "title": "obowiązki, co musze wiedziec na obozie"
             }
           },
           {
-            "id": "3c834049df74b9b0",
+            "id": "01e0007d514e5d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop SG plan, outline.md",
+                "file": "Karolina oboz tematy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "workshop SG plan, outline"
+              "title": "Karolina oboz tematy"
+            }
+          },
+          {
+            "id": "e7f21b21063cda2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oboz GPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oboz GPS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#sztukmistrze",
+                "query": "#gps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,20 +147,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "7788da16aa335501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dorosli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dorosli"
             }
           },
           {
@@ -245,57 +246,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "131eab839ca7075f",
+  "active": "6befc58357228fc0",
   "lastOpenFiles": [
+    "kwestionariusz poziomy oboz GPS.md",
+    "Oboz 2026 treningi.md",
+    "Sklep.md",
+    "Koty lipiec 2026.md",
+    "Bez nazwy 1",
+    "Aerials/Camps, taking care of children/pomysly, notatki obozowe.md",
+    "Random notatki oboz GPS 2026.md",
+    "Oboz GPS.md",
+    "Karolina oboz tematy.md",
+    "obowiązki, co musze wiedziec na obozie.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "akademio kurs wychowawcy kolonijnego.md",
+    "Bez nazwy",
+    "Karo.md",
+    "Pamela.md",
+    "Aerials/Teaching/Tosia Antonina Robak.md",
+    "Personal/Todo/Feb-Mar-Apr.md",
+    "Aerials/Teaching/Classes/2025-2026/pokazy koncowe maile do wszyzstkich, prob.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 16 11-15 kont.md",
+    "Aerials/Teaching/Classes/2025-2026/Wt 15 8-11 kont.md",
+    "Sztukmistrze baza zabaw.md",
+    "Spotkanie zespoł.md",
+    "Co by zmienic w dniach otwartych.md",
+    "Cyrk łączy.md",
     "Aerials/Magda Lublin.md",
-    "Call 26-02.md",
-    "Personal/Todo/Feb-Mar.md",
-    "Rolka zawody flying angels.md",
-    "Aerials/Teaching/Classes/2025-2026/Pt 16 11-15.md",
-    "Wątpliwości co do podjęcia pracy.md",
-    "Notatki dot. Polityki ochrony dzieci u sztukmistrzów.md",
     "Safety.md",
-    "Personal/Foldery na papiery, dokumenty.md",
-    "Aerials/Teaching/Classes/2025-2026/Wt 18 14-20.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 20.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 19.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 18.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/wt 16.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/pt 19.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/pt 18.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/czw 20.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/czw 19.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Wt 17 akro P2.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt17.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Pt16 - akro P3.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Pon akro spot.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw18.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw17.md",
-    "Aerials/Teaching/Classes/2025-2026/Poznan/Czw16.md",
+    "Personal/Status bezrobotnego obowiązki.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Bez nazwy.canvas",
+    "Aerials/My training/Session to-do/Archive",
     "Aerials/Teaching/Classes/2025-2026/Poznan",
-    "Aerials/Teaching/Classes/2025-2026/Pt 19 dynamika.md",
     "Personal/Todo/archive/2025",
     "Personal/Todo/archive",
     "Untitled 3",
     "Aerials/Teaching/Classes/2025-2026",
     "Aerials/Teaching/Zastepstwa/2024-2025",
-    "Aerials/Teaching/Classes/2024-2025",
-    "Untitled 2",
-    "Untitled 1",
-    "Untitled",
     "00063.jpg",
-    "IMG_9137.png",
-    "Untitled.canvas"
+    "IMG_9137.png"
   ]
 }

@@ -44,7 +44,24 @@ po skorpionie duzy spad?
 V 27.2
 Balanas w szpagacie - przejscie w szpagat na boki JEDEN - nierowny skorpion - igla - wspinaczka - paszki - bananek - drop w tyl
 
+### 2
+### 12
+ - [ ]  Wzmacnianki na podłodzee - core, ramiona
+ - [ ] Szybkie przejscia w przod
+ - [ ] Swingi na boki
+ - [ ] Swing z przelozeniem reki
+ - [ ] Swingi do FB, continuous hang-FB swings
+ - [ ] Arm roll ups
+ - [ ] Swing do zahaczonego opposite flex
+ - [ ] Front-back amazon
+ - [ ] Front-back amazon do skorpiona?
 
+### 11-4
+ - [x] ukladzior 
+ - [ ] Wzmacnianki na podłodzee - core, ramiona
+ - [x] Mostek z wykretu czy moze robic? Rozgrzewa po to
+ - [ ] 2arm swings
+ - [ ] 2arm swings do nawijki na talii?
 ### 1-3
  - wersja bez nierownego skorpio
 

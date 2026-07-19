@@ -2,14 +2,38 @@
 03-03-2026
 
 
+### 21
+#### pomysl, powymyslaj jakies przystepne elementy dynamiczne, jakie mozna by wykorzystac do ukladu, w sekwencjach etc
+ - flara
+ - Hip key roll up
+ - To od marceliny, w aniolku
+ - Swing vka-vka
+### 14
+ - obroty w suple
+ - Poczatek flary
+ - rozpoczecie obrotu z kroku, przez kopa jak do flary
+### 24-3
+ - [x] swingi do front balance
+### 17-3
+ - [ ] Kolyski
+ - [ ] Skosy - pamietamy, ze nie musi byc idealne hollow body
+ - [ ] swingi na supelkach; i jak ktos sie zmeczy to w trakcie zajęć
+ - [ ] Scissor swings
+	 - [ ] Jak do s-wrapa np
+	 - [ ] Do nozyczek
+	 - [ ] Czeba je troche silowo robic
+ - [ ] otwarta pojedyncza gwiazda
+	 - [ ] Powoli, c-szejpowo
+	 - [ ] Do zahaczonego kolana
+	 - [ ] Szybko, do amazonki
+	 - [ ] Z tej amazonki potem np do s-wrapa, catchers
 ### 10-3
  - Wznosy nog z glowa w rekach
- - swingi na supelkach
  - Skosy aktywejszyn w parach; lamiemy troszke hollow body
  - jak ktos sie zmeczy - na supelku
  - Scissor swings
- - Gora-dol - na materacach§#
-- A
+ - Gora-dol - na materacach
+- z amazonek do zaby/single catchers
 
 ### 3-3
 #### asertywnosc!!!

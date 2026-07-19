@@ -1,0 +1,16 @@
+
+#sztukmistrze 
+
+15:30 8-10 - małe spryciule, próbują na dużo sobie pozwalać. Będą chciały wejść do tej nieszczęsnej tuby z gąbki (ja im nie pozwalam, Magda podobno tak), zagadać cię na jakieś pierdoły, manipulować etc. Jest tam taka Weronika, która uczy się na pianinie. Czaisz, że na ostatnich zajęciach jak pomagałem jednej podgrupie do występu to nagle słyszę, że ona zaczęla grać na tym pianinie które stoi w baletowej XD Powiedziałem, że może raz zagrać w środku zajęć i raz pod sam koniec. Taka pedagogika cyrku 😂😭😭
+Zazwyczaj chcą jedna zabawę na początek i czasem na koniec. Na początek możesz z nimi zrobić np. Małpki i rekiny, a pod koniec, jeśli bardzo będą chciały, jakieś drzewo czy dżunglę. Napisz, jeśli nie kojarzysz „Małpek i rekinów”, to wyjaśnię, jbc one też to ogarniają, same ułożą „planszę” etc.
+Co do rozgrzewki - nie jestem pewien jak to wyglądało u nich w przeszłości, ale staram się je przyzwyczajać do „typowych” moim zdaniem elementów pod akro powietrzną. Czyli skłony w rozkroku/siadzie prostym, foka, mostki, jakieś scyzoryki itp. Natomiast dość je to szokuje, np miałem komentarze że „dlaczego robię rozciąganie na zajęciach z szarf” :DDD Więc szczerze, zrób jak uważasz z tym. Po części naziemnej Po zabawo-rozgrzewko-początku zawsze robię jeszcze jakaś chociaż symboliczną wzmacnianko-rozgrzewkę - nakrywki, wchodzenie, fikołki, przeskakiwanie materaca itd. Potem niech przejdą do rozkminiania układów. Wtedy moja/Twoja rola jest taka, że chodzę od grupy do grupy i pomagam im/oglądam/popędzam do roboty.
+W razie czego - jak zaczęliśmy „tworzyć” te układy to rozdałem im jakieś tam kartki na których sobie bazgrały. Ja je wziąłem do mieszkania w Lublinie w teczce, i nie ma ich w CSK - mój błąd, powiedz najwyżej że moja wina 🤷🏼‍♂️ Ale juz teraz powinny pamiętać w grupach, co robią po kolei. Możesz im rozdać nowe, jak chcą sobie coś pobazgrać (są w magazynku), a ja za tydzien przyniosę im te stare.
+
+16:45 - 11-15. Schemat zajęć praktycznie taki sam jak powyższa grupa, ale te są dużo bardziej ogarnięte i można z nimi robić bardziej ”trening” a nie „pedagogikę cyrku”. Ooo, i tam były dramy z dobieraniem się w grupy. Natomiast możesz przekazać im dobrą wiadomość, że trzy pary - Kalina/Gabi, Zuza/Yustyna, Amelia/Hania - mogą zostac w parach, jednak wtedy mają limit czasu 3:30. Tak mi suszyły głowę, ze ja zacząłem suszyć głowę osobie decyzyjnej, aż się udało. Na pewno się ucieszą. Co do elementów to mogą pytać o zaplątanie do star dropa; to jest najtrudniejsze, co z nimi robiłem.
+
+18:00 - 14-16. Bardzo ogarnięte, bardzo dużo umieją, a jednocześnie poziom skilla wewnątrz grupy jest bardzo różny. Natomiast fajnie już ćwiczą sobie w tych mniejszych grupkach i mają ciekawe pomysły. Jeśli chcesz możesz robić im jakąś grę na początek, ale nie musisz; „typowa” rozgrzewa jest dla nich absolutnie wystarczająca. Co do ukladów to dużo tam się wyprawia. Grupa jest bardzo różnorodna pod względem doświadczen, więc podczas ukladów ja tam tylko raczej łażę, oglądam i bardziej daje sugestie co wygląda lepiej na scenie czy coś takiego. Czasem kogoś tam musiałem przyasekurować bo niektóre próbują duo na 1 szarfie. Ale teraz już raczej same powinny funkcjonować.
+
+
+
+
+

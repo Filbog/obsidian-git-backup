@@ -9,9 +9,11 @@
 6) Dokumenty prawko
 7) umowy mam talent
 8) dokumenty GPS
-
+9) X
+10) X
+11) Niewypelnione dokumenty do/z urzedu pracy
 ### 2
-1) Polisa OC PZU 2023-2024; umowa trenera zewnętrznego
+1) Polisa OC PZU 2023-2024; umowa trenera zewnętrznego; polisa 2025/26
 2) flypark umowa, dokumenty
 3) zaświadczenie o ukonczeniu licencjatu UAM
 4) dokumenty z wizyt od Swiecy

@@ -2,6 +2,32 @@
 03-03-2026
 
 
+### 10-4
+ - [x] Lopatka w dol, dotkniecie wolna reka nad hanging arm
+ - [ ] Vka-vka, ale przez exeggarated pencil
+ - [x] swingi do front balance
+ - [ ] Yiaki mowi ze troche engaged
+Co dziewczyny chca:
+ - [ ] Szybkie wejscie s-wrap
+ - [ ] Amazonka do skorpiona
+ - [ ] Spad na kostke
+ - [ ] Scissor swings do hip key roll up
+
+### 27-3 
+ - [ ] 
+### 20-3
+ - [ ] Kolyski
+ - [ ] Skosy - pamietamy, ze nie musi byc idealne hollow body
+ - [ ] swingi na supelkach; i jak ktos sie zmeczy to w trakcie zajęć
+ - [ ] Wznosy nog z glowa w rekach
+ - [ ] Skosy aktywejszyn w parach; lamiemy troszke hollow body
+ - [ ] jak ktos sie zmeczy - na supelku
+- [ ]  z amazonek do zaby/single catchers
+ - [ ] otwarta pojedyncza gwiazda
+	 - [ ] Powoli, c-szejpowo
+	 - [ ] Do zahaczonego kolana
+	 - [ ] Szybko, do amazonki
+	 - [ ] Z tej amazonki potem np do s-wrapa, catchers
 
 ### 6-3
 #### asertywnosc!!!

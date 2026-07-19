@@ -243,25 +243,14 @@ Jeśli niepewna ilczba miejsc - wejść przez GRAFIK - tam widać także osoby n
  - Lub otwarte treningi szarfowe
 
 ### Wpisywanie do tabelki
- - skad najlepiej brac info?
- - skąd np. poziom trudności brać?
- - zapisy - kiedy BRAK, a kiedy tę standardową formułkę przeklejać
+ - skad najlepiej brac info? - z poprzednich zajec. Jesli one nie istnialy wczesniej, to czeba do instruktora
+ - skąd np. poziom trudności brać? - jak wyzej
+ - zapisy - kiedy BRAK, a kiedy tę standardową formułkę przeklejać. Brak jest tylko na te zajęcia dla dzidziów np. Adama, tam mozna od razu sie zapisac na zajecia (nie musza czekac na link)
  - skad brac liczbe miejsc - to samej tabelki brałem z poprzednich istniejących już blokow tych zajęć, ale np o kole cyra brak info bo nie istnaily wczesniej
- - kolumna O w tabelce, wejścia próbne - standardem jest NIE. Wyjątkiem ogniomistrze i cyrkowe, jo?
- - Czy jest jakiś wzór do obliczenia, lub rozpiska możliwych nieobecności do odrobienia?
- - Wejścia jednorazowe - gdzie/czy jest to brane pod uwagę w tej tabelce?
+ - kolumna O w tabelce, wejścia próbne - standardem jest NIE. Wyjątkiem ogniomistrze i cyrkowe, jo? Jo.
+ - Czy jest jakiś wzór do obliczenia, lub rozpiska możliwych nieobecności do odrobienia? Nie. 10/4, 15/6
+ - Wejścia jednorazowe - gdzie/czy jest to brane pod uwagę w tej tabelce? Juz istnieje
 
-Lista
-Henio
-Natalia t
-Tosia
-Kamila
-Liwia
-Zosia
-
-Janina
-Helena
-Zuza
 ### kalendarz od Magdy dla moich obowiazkow, zajec
 [Link](https://docs.google.com/spreadsheets/d/184_oLakpnQsXTuTgG7vn-nYjupZvcLGr3u3tCoiyrOw/edit?usp=drivesdk)
 
@@ -271,4 +260,4 @@ Zuza
 ### References (source material, similar notes):
 [Dokument od Magdy do istniejących grup - co kto umie etc.](https://docs.google.com/document/d/18hza93ih654F5ExarfRuFP8LVp7XLkovYgrNRVENUlg/edit?usp=sharing)
 [Grafik przestrzeni](https://docs.google.com/spreadsheets/d/14mRHZpej4AFy1mKoO4D6_C09P8jo__MEiJ9S2XI-nQA/edit?gid=1310532595#gid=1310532595)
-
+[tabelka do tworzenia nowych zajec dla Magdy M](https://docs.google.com/spreadsheets/d/1MCQXzUoQnXK__CNQfcsXiohsCaQs1Y3UidxeNNfDLNM/edit?usp=sharing)
