@@ -1,21 +1,415 @@
 ### general
  - [ ] Jak korzystać z Siri żeby móc dodawać rzeczy na to do listy głosową
  - [ ] Wyczyścić folder iCloud
- - [ ] AYACHI FEstiwal
- - [ ] much more festival
  - [ ] wyszechrad??
 
 ## lipiec
-- [ ] Przekminue co odp natalii w zwiazku z tymi fotkami, obozem, uczeniem ludu
-- [ ] Wyczyszcze sobie buty nike
-	- [ ] W seodku
-	- [ ] Na zewnatrz
-- [ ] Wypiore rzeczy ktore przywiozlem z lbn
-- [ ] Zrobie porzadek w szafach z ubraniami
-- [ ] Porzadek w pojemniku z lekami, tabletkami
-- [ ] Wywale niepotrzebne, stare ksiazki, makulature z pokojju
-- [x] UCo ze zguvionym kocykiem
+- [x] Przekminue co odp natalii w zwiazku z tymi fotkami, obozem, uczeniem ludu
+- [x] Wyczyszcze sobie buty nike
+	- [x] W srodku
+	- [x] Na zewnatrz
+- [x] Wypiore rzeczy ktore przywiozlem z lbn
+- [x] Zrobie porzadek w szafach z ubraniami
+- [x] Porzadek w pojemniku z lekami, tabletkami
+- [x] Wywale niepotrzebne, stare ksiazki, makulature z pokojju
+- [x] Ortodonta musze sie zapisac
+- [ ] Okulista musze sie zapisac
+- [x] Skylotec
+## październik
+### general
+- [x] wroc do anastazji keidy moemy dzialc w przyszlym tygodniu
+
+
+
+### 20
+- [x] sprawdze swoje wolne terminy i odpisze mamie kasi
+- [ ] odpisze mamie tosi
+- [ ] spytam ta z drezdenka co tam robimy na warsztatach
+- [ ] nf1 XXXX
+- [x] zrobie ciasto
+- [x] kontynuacja researchu airtagow
+- [x] jak zrobie odpowiedni research to kupie sobie, po raz trzeci... sluchawki...
+- [ ] przegram muzyke i zdjecia(?) na dysk zewnetrzny
+### 19
 - [ ] 
+- [ ] Pojde spac przed 2
+### 17
+- [x] studia przezyc
+- [x] Bogdanku smaczka
+- [x] Whatsapp komwersacja sedziow
+- [x] wez tablet i jakis zeszyt na niedziele
+
+### 12 
+- [x] wroc do anastazji keidy moemy dzialc w przyszlym tygodniu
+- [x] natasza
+- [x] umyje wanne 
+- [x] wplace do bankomatu gotowe
+- [ ] kreatyna
+- [x] NF1
+- [x] wyjme zmywarke
+- [x] akro grawi
+- [x] kerfur - wafelki
+- [x] wyniose smieci z mojego pokoju
+- [ ] powtorka notatek i terminow matma
+- [ ] ~3x15min pomodorro zadania logika z gwiazdka
+- [ ] przeczytam i pocisnę ten mentoring zyciowy od chatgpt
+- [x] poogladam reszte tego straps academy i pozbieram wartosciowe video (jesli takie sa hehehe)
+- [ ] zgram zdjecia ulubione z laptoka na dysk zewnetrzny
+- [ ] upewnie sie ze wszystko z laptoka zgrane
+- [x] rozpakuje czarna torbe
+### 11
+- [ ] NF3
+- [x] Kasia akrospot
+	- [ ] Namiot
+	- [x] Double star
+	- [ ] 2.5 star
+- [x] Tosia akrospot
+- [ ] 15-20min gitarra
+- [ ] powtorka notatek i terminow matma
+- [ ] ~3x15min pomodorro zadania logika z gwiazdka
+- [x] aerials basics grawi
+- [x] Agata grawi
+- [ ] akro 19-20 grawi
+- [ ] przeczytam i pocisnę ten mentoring zyciowy od chatgpt
+### 8
+- [ ] NF1
+- [x] obejrze w koncu wystep Tosi...
+- [x] ttabletki apteka na debcu
+- [x] wyniose jakies smieci
+- [x] Nowe rezerwacje akrospot
+- [x] Czy 11 i/lub 25 sa mozliwe w akro spocie
+- [x] zobacze czy znowu komus nie odpisalem i odpisze
+- [ ] 15-20min gitarra
+- [ ] powtorka notatek i terminow matma
+- [ ] ~3x15min pomodorro zadania logika z gwiazdka
+- [x] co z rojkiem, ustale z mami
+- [x] spakuje sie na wyjazd xd
+- [x] odpisze milenie, jak paulina nie odpisze to pisze jej że next time
+- [x] obetne paznokcie
+- [x] ogole sie caly
+### 6
+- [x] anastazja trening
+- [x] Natasza trening
+	- [x] spytaj jak intensywnie bylo, czy moze bardziej na czilku
+	- [x] musimy znalezc inny termin zajec niz wtorki 15:20 bo Anastazja ma grupwoe wtedy
+- [ ] ttabletki apteka na debcu
+- [ ] wyniose jakies smieci
+- [x] trening wlasny
+	- [ ] szarfa
+	- [x] straps
+	- [x] skakanie
+- [ ] Nowe rezerwacje akrospot
+- [ ] Czy 11 i/lub 25 sa mozliwe w akro spocie
+- [ ] zobacze czy znowu komus nie odpisalem i odpisze
+- [ ] NF1
+- [x] 30min ogladam i sciagam ze straps academy
+- [ ] 15-20min gitarra
+- [ ] powtorka notatek i terminow matma
+- [ ] ~3x15min pomodorro zadania logika z gwiazdka
+- [x] 20-30min porzadku, przesylania rzeczy na dysk zewnetrzny
+- [ ] co z rojkiem, ustale z mami
+- [x] co z walencja, ustale z mami
+### 4
+- [x] do ortodontki
+- [x] Odpisze marinie
+- [ ] Nowe rezerwacje akrospot
+- [x] Od marka kwestionariusz?? - nie wyslal xd
+- [ ] wydrukuje, podpisze i wysle zeskanowany kwestionariusz do marka
+- [x] tosia akrospot
+- [x] agata akrospot
+- [ ] Czy 11 i/lub 25 sa mozliwe w akro spocie
+- [ ] 
+### 3
+- [x] zlicze godziny do fryderyka
+- [x] Upewnie sie czy z Tosia cwiczymy
+- [ ] Studia
+	- [ ] Zaswiadczenie o statusie studenta?
+	- [ ] Ubezpieczenie przez uczelnie?
+### 2 
+- [x] NF1
+- [x] **bez autodestrukcji plsss**
+- [x] przełożyć rezonans magnetyczny
+- [x] nagram dla Justyny Duszynskiej:
+	- [x] single pencil drop
+	- [x] single star drop
+- [x] trening Aleksandra
+- [ ] spytam Fryderyka czy są jakieś koła akrospotowe i jeśli są to czy jest jakaś 95
+- [ ] matmy troszku
+- [ ] poobczajam strone uczelni, jak zdobyc status studenta, jak zeby mnie ubezpieczyli
+
+## wrzesien
+- [x] oswiadczenie dla agaty, o tym ze chodzi 3 razy w tygodniu na 2h
+- [x] agata muzyka flyvolution
+- [x] do matki agaty ze wejscie 30zl w akro spocie, a nie 40zl
+- [ ] zapisze sie na prawo jazdy
+- [x] napisze do babki na studiach o to, czy mozna np w tygodniu odrobic to co sie nie bylo na niestacjonarnych
+- [ ] Okulista musze sie zapisac
+
+### 30
+- [x] podpis i data wykonywania umowy od akrotejów
+- [x] Odp mamie igi
+- [x] Koszalin napisze ze nie moge i co dalej
+- [ ] Obejrze wykon tosi od ewy
+- [ ] Spytam mac ile mam oddac
+- [ ] Zgram zdj z olena z obozu
+- [ ] matma 4x 15min pomodorro
+- [ ] 15min gitarra
+- [ ] **NF3**
+- [ ] **bez autodestrukcji plsss**
+- [ ] Wyprobuje w koncu stojeczkki
+- [x] Wysle kindze zdj z ipad
+### 29
+- [x] odpisze przemkowi
+- [ ] Co z warsztatami w strzelcach? Jesli są to ogarne koszalin wtedy…
+- [ ] Odpisze idze i mamie igi
+- [ ] Odp igorowi
+- [ ] Obejrze wykon tosi od ewy
+- [ ] Spytam mac ile mam oddac
+- [ ] Zgram zdj z olena z obozu
+- [x] Zamiote pokoj
+- [x] Wyczyszcze obiektywy
+- [ ] matma 4x 15min pomodorro
+- [ ] 15min gitarra
+- [ ] **NF1**
+- [ ] **bez autodestrukcji plsss**
+- [ ] Wyprobuje w koncu stojeczkki
+### 26
+- [x] mocne sniadanie
+- [x] zmywarka
+- [ ] Spytam mac ile mam oddac
+- [ ] Zgram zdj z olena z obozu
+- [ ] Zamiote pokoj
+- [ ] Wyczyszcze obiektywy
+- [x] Wyniose szkla
+- [ ] matma 4x 15min pomodorro
+- [ ] 15min gitarra
+- [ ] **NF2**
+- [ ] **bez autodestrukcji plsss**
+ - [x] idze przypomniec...
+- [ ] do tej kliniki od huberta do doktorki sie zapisac
+- [x] wystep akro spot
+- [x] zwrot ladowarki do szczotki
+- [x] Do typa z SWL o wyzsza stawke
+- [x] Odpisze milenie
+### 23
+- [ ] **NF1**
+- [ ] **bez autodestrukcji plsss**
+ - [ ] idze przypomniec...
+- [x] wystepy pod akrospot
+- [ ] do tej kliniki od huberta do doktorki sie zapisac
+- [x] agata
+- [ ] Rehab
+	- [x] Handstands
+	- [x] Podpor
+	- [x] Curls
+	- [x] Pompki
+- [x] Pre-hab
+	- [x] Jeffersony x2
+	- [x] Grzbiety x2
+- [x] obiad
+
+- [x] Wyjme zmyware
+- [ ] Przechodze przez video, notatki z yuvala, w tym praktyka HS
+### 18
+### 17
+- [x] do mamy tosi czy moga 13-14
+- [x] W zeleznosci od tego do marii czy moga 14:30-16:00, 14:00-16:00 czy wolne
+- [x] NF1 come onnnn
+- [x] Po kota 14:30
+- [x] Cos wykminie co zrobic zeby tosia mogla 9-11, albo im napisac ze sorry ale jednak grawitacja 11-13
+### 16
+- [x] **tabletki!!**
+- [ ] NF2
+- [x] ola wyciaganie
+- [x] agata
+- [ ] zapisze sie na jazdy
+- [ ] obczaje terminy egzaminu praktycznego
+- [ ] 30min nauki pod prawo jazdy
+- [ ] rozlicze sie za paragony
+- [ ] gitarka cokolwiek, chociaż trochę
+- [ ] przejrzę chociaż 2 miesiące na huawei p30 pro
+
+### 15
+- [x] gole sie
+- [x] obczajam regulamin flyvolution
+- [ ] do matki agaty ze wejscie 30zl a nie 40zl w akro spocie
+- [x] agata muzyka pod flyvolution
+- [x] **NF1**
+- [ ] zapisze sie na jazdy
+- [ ] obczaje terminy egzaminu praktycznego
+- [ ] 30min nauki pod prawo jazdy
+- [ ] 30min treningu
+- [ ] 30min relaksu, walkowania
+- [x] odpisze temu przemkowi
+- [x] poobczajam co z ta uczelnia
+- [ ] oswiadczenie dla agaty, o tym ze chodzi 3 razy w tygodniu na 2h
+- [ ] rozlicze sie za paragony
+- [x] psychiatra 15:30
+- [x] paznokcie
+- [x] ogarne czy w srode cwiczymy z agata
+- [x] usune 10zdj/video na Huawei
+- [x] usune 10zdj/video na iPhone
+- [x] 10min porządku na laptopie
+
+### 14
+- [x] orto
+- [x] ubezpieczenie marks
+- [ ] gole sie
+- [ ] obczajam regulamin flyvolution
+- [ ] do matki agaty ze wejscie 30zl a nie 40zl w akro spocie
+- [ ] agata muzyka pod flyvolution
+- [ ] XXX NF4 XXX
+- [x] napisze w jebany urzad pracy
+- [ ] zapisze sie na jazdy
+- [ ] obczaje terminy egzaminu praktycznego
+- [ ] 30min nauki pod prawo jazdy
+- [ ] 30min treningu
+- [ ] 30min relaksu, walkowania
+- [ ] odpisze temu przemkowi
+- [ ] poobczajam co z ta uczelnia
+- [x] przesle sb muzyke na tel
+
+### 13
+- [ ] ubezpieczenie marks
+- [x] odpisz zakryszko
+### 9 
+- [x] ogole sie
+- [x] wysle oli to co mam, te umowy-zlecenie zeby podpisac
+- [ ] 30min mini trenio rano
+- [ ] emma cirkus cirkor
+- [ ] pogram na gitarce
+- [ ] soczce mailem te video, linki do mam talent
+- [ ] do jacka marksa czy tez bedzie ubezpieczenie zalatwial
+- [ ] tej orichowskiej napisze ze nie ogarnalem tego co chcialem
+- [ ] dla Kasi to takie machanie szarfa z single silk bungee
+- [ ] spytam przez Izę czy mogę wrzucic Nataszę/Anastazję
+- [ ] odp na msg zakrzewskiemu
+- [ ] zapiszę się do okulisty na nfz
+- [ ] odp Izie do warsztatów
+- [ ] odp tej zakryszko
+- [ ] odp tym z Koszalina
+### 4
+- [ ] ogole sie
+- [ ] wysle oli to co mam, te umowy-zlecenie zeby podpisac
+- [x] agacie zasw o niekaralnosci
+- [x] do schonertow ze jestem w pzn
+- [ ] 30min mini trenio rano
+- [ ] emma cirkus cirkor
+- [ ] pogram na gitarce
+- [ ] soczce mailem te video, linki do mam talent
+- [x] apteka pestka - agolek
+- [ ] do jacka marksa czy tez bedzie ubezpieczenie zalatwial
+- [ ] odp na msg:
+	- [x] natalii m
+	- [ ] zakrzewskiemu
+- [ ] tej orichowskiej napisze ze nie ogarnalem tego co chcialem
+- [x] milenie domino jakie mozliwosci warsztatow wokolo tych cyrkulacji
+- [x] uporzadkuje dokumenty, powyrzucam niepotrzebne, smieci
+- [x] wyniose smieci
+- [x] odbiore paczki z paczkomatu
+- [x] NF1
+
+
+### 7
+- [ ] do cyfrowe.pl z obiektywem
+### 1
+- [ ] do Marka o te umowe-zlecenie
+- [ ] odp na messengerze:
+	- [x] izabeli
+	- [x] martynie
+	- [ ] natalii M
+	- [ ] zakrzewskiemu
+- [ ] agacie zasw o niekaralnosci
+- [ ] do schonertow ze jestem w pzn
+- [x] odp na whatsapp
+	- [x] marii steafniak
+	- [x] pawlowi
+- [ ] napisze do emmy cirkus cirkor
+- [ ] 30min trenio mini rano
+- [x] photoshop free trial
+- [x] kontynuacja edycji zdj
+- [ ] pogram na gitarce
+- [ ] wysle soczce mailem te video, linki
+### 28
+- [x] do rafala na spotkanko czy odebranie pierdol
+- [x] lightroom, dalsza selekcja
+- [ ] do Marka o te umowe-zlecenie
+- [ ] poodpisuje na messengerze:
+	- [ ] natalii
+	- [x] izie
+	- [x] olenie
+	- [ ] zakrzewskiemu
+- [ ] poodpisuje na IG:
+	- [ ] oli
+	- [x] milenie
+	- [x] caitlin
+	- [ ] marii
+	- [ ] jagodzie
+- [x] apteka - recepty od soczki
+- [ ] wysle soczce mailem te video, linki
+- [x] trening 1h
+- [ ] maseczka
+- [x] odzywka na wlosy
+- [x] zrobie porzadek w szafie z ubraniami
+- [ ] pogram na gitarce
+### 19
+- [x] 1. Zamieść podłogę, szczególnie u mnie w pokoju, umyć podłogę
+- [x] Odkurzyć poduszki i położyć na kanapie
+- [x] 3. Umyć miski do wody i jedną postawić w Twoim pokoju, drugą w łazience albo u mnie w pokoju. RANO
+- [x] Postawić puszkę w drzwi łazienki i dużego pokoju, żeby się nie zatrzasnęły
+- [x] 5. Uszykować ten automat dwukomorowy , włożyć baterię i zostawić w kuchni bez karmy. Włóż te 2 wkłady żelowe do zamrażarnika do najniższej szuflady.
+- [x] 6. Sprawdź, czy te automaty z suchą karmą są napełnione
+- [x] 7. Umyj miski białe i zostaw na blacie
+- [x] 8. Resztę mokrej karmy mokrej wywal do kibla zanim wyjedziesz
+### 18
+- [ ] otrivin
+- [ ] melatonina
+- [x] blanka, julita
+- [x] po tel
+- [x] olenie odp... 
+### 16
+- [ ] obcxaje grafik obozu i ew napisze do oleny
+- [ ] wybiore co chce zrobic nagranego na aparacie
+- [ ] tosia
+- [ ] zobacze czy julita i blanka moga 18 przyjsc
+- [ ] posprzatam w szafie
+### 14
+- [x] wyniose smieci
+- [x] telefon do mechanika telefonow
+- [x] plecak do mechanika plecakow
+- [x] zapis andrzejewski
+- [x] Zapis na MRI
+- [x] Zwrot czytnika cf express
+- [ ] 
+### 11
+- [ ] zapis andrzejewski
+- [ ] zapis na MRI
+- [x] agata
+- [x] amelia 
+- [ ] ortodonta zapis - tel?
+- [x] wlasny mini trenio
+- [ ] porzadek w szafach z ubraniami
+- [x] Wymiana baterii iphone - kupie
+- [ ] obczaje, ustosunkuje sie do planu obozu
+- [ ] Handstand, lekkko ponapierdalac
+- [x] ogole sobie twarz
+- [ ] zwrot czytnika cf express
+- [x] sprawdze czy juz leathermana moge odeslac
+
+
+### 8
+- [ ]  
+- [x] Klasyf zdj
+
+
+### 7
+
+- [ ] fizjo -jagielowixz
+- [ ] Ortopeda zapisz sie na nfz
+- [x] Spytac devi srd o kurs riggerskk
+- [x] Dropout to mishu xd
+- [ ] Jkaies duo akro na ziemli
+
 
 
 ### 12

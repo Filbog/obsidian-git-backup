@@ -44,17 +44,46 @@ po skorpionie duzy spad?
 V 27.2
 Balanas w szpagacie - przejscie w szpagat na boki JEDEN - nierowny skorpion - igla - wspinaczka - paszki - bananek - drop w tyl
 
+## październik
+
+
+### 11
+#### switch gora
+- prawa super, lewa szuka drogi i pewnosci siebie
+#### 2arm swing to front C
+- wychodzi bardzo ladnie, consistent
+- Probowalismy kminic i przygotowywac sie pod 2arm swing to front C
+#### kip to butterflies
+- z moja mala asekuracja fajnie wychodzi, bez jeszcze brakuje tego podciagniecia
+#### reverse spin meathook to flag thru 1.5 arm
+- super na obie strony
 ### 2
-### 12
- - [ ]  Wzmacnianki na podłodzee - core, ramiona
- - [ ] Szybkie przejscia w przod
- - [ ] Swingi na boki
- - [ ] Swing z przelozeniem reki
- - [ ] Swingi do FB, continuous hang-FB swings
- - [ ] Arm roll ups
- - [ ] Swing do zahaczonego opposite flex
- - [ ] Front-back amazon
- - [ ] Front-back amazon do skorpiona?
+#### switch dołem
+- na OBIE strony fajnie. Troszke jeszcze brakuje powtorzen i sily, ale uguem mega mega
+- Raz wyszlo na obie strony mega, reszta powtorzen calkiem blisko
+#### motylki szarfa
+- Aga bardzo mało pracowała rękami. Nie miała wtedy przeciwwagi i „buforu” do balansowania jesli zaczelaby spadać w motylkach w strone nog lub glowy. Zaproponowalem zeby troche bardziej tymi rekami do wysokosci glowy pracowala. **Od razu pomogło, większa kontrola w samych motylkach i rollach z motylkow**
+- Petardunia juz te motylki, rolle w obie strony też już się stają powoli consistent
+#### Swing do 2arm back C
+- PETARDUNIA ze swingow bok-bok
+- Kolejny etap: można zaproponowac zeby starala sie wpadac do swinga jak odplatuje sie z C tyłem, aby eventually moc kontynuowac
+#### uklad szarfa
+- szybka czesc przelecielismy bez muzy, same elementy
+#### wasko-szeroko szarfa
+- wprawki na trampolinie, odbijanki na plecach. Zeby glowa zostawala nizej niz nogi
+- Wprawki na lezaco, zeby glowa/szyja/lopatki zostawaly caly czas na ziemi
+- Przyzwyczajamy sie do spadania na plecy - robimy takie samo tempo jak do przechwytu, ale celowo na plecki ladujemy
+- Spotted attempts, bardzo ładnie
+## wrzesien
+#### straps
+##### muzyka depth over distance
+### 13
+#### straps
+- [ ] switch dolem - bardzo fajnie
+- [ ] Przejscia miedzy szpagatami ze strapsami na kostkach - top
+#### szarfa
+- [ ] motylki super wchodzą
+- [ ] Walczymy z arm roll upami
 
 ### 11-4
  - [x] ukladzior 

@@ -30,8 +30,6 @@ przypominaj
 - nakrywki spoko robily
 - kazda robila jakas rzecz, nad ktora pracuje; nie zdazylem do wszystkich podejsc i popodziwiac
 
-93, 81 tasma klejaca
-Sylwia II czajnik
 
 ### Hashtags:
 #gps #aerialcamp 
